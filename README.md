@@ -9,6 +9,7 @@
 
 ### 最新
 
+* [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html)
 * [Redis 慢查询分析](https://www.zeekling.cn/articles/2020/07/23/1595493094855.html)
 * [Redis Sentinel哨兵机制](https://www.zeekling.cn/articles/2020/07/21/1595343778998.html)
 * [Redis 集群详解](https://www.zeekling.cn/articles/2020/07/21/1595342026052.html)
@@ -28,7 +29,6 @@
 * [Kafka概述](https://www.zeekling.cn/articles/2020/05/24/1590324636321.html)
 * [白蛇缘起](https://www.zeekling.cn/articles/2019/07/14/1563077032010.html)
 * [决策树详解](https://www.zeekling.cn/articles/2019/07/20/1563605756560.html)
-* [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html)
 
 
 
