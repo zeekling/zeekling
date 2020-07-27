@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www/zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-07-27 23:31:35`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-07-27 23:36:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏<p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">
 小令童鞋
@@ -15,6 +15,9 @@
 
 ### 最新
 
+* [环材化生劝退计划](https://www.zeekling.cn/articles/2020/06/17/1592323471534.html) 
+ > <p>环材化生劝退计划</p>
+ > <p>劝退一人胜发七篇 CNS</p>
 * [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html) 
  > <p>最近github可以显示类似于主页的东西了，所以打算将自己最新的博客推送到github主页。</p>
  > <p>我的github主页:<a href="https://github.com/zeekling" target="_blank">zeekling</a></p>
@@ -43,37 +46,6 @@
  > Consumer消费数据时的可靠性是很容易保证的，因为数据在Kafka中是持久化的，故不用担心数据丢失问题。<br>
  >   由于consumer在消费过程中可能会出现断电宕机等故障，consumer恢复后，需要从故障前的位置的继续消费，所以consumer需要实时记录自己消费到了哪个offset，以便故障恢复后继续消费。<br>
  >   所以offset的维护是Consumer消费数据是必须考虑的问题。</p>
-* [Redis数据清理详解](https://www.zeekling.cn/articles/2020/06/22/1592922698436.html) 
- > <p>Redis常用的删除策略有以下三种：</p>
- > <ul>
- > <li>被动删除（惰性删除）：当读/写一个已经过期的Key时，会触发惰性删除策略，直接删除掉这个Key;</li>
- > <li>主动删除（定期删除）：Redis会定期巡检，来清理过期Key；</li>
- > <li>当内存达到maxmemory配置时候，会触发Key的删除操作；</li>
- > </ul>
- > <p>另外，还有一种基于触发器的删除策略，因为对Redis压力太大，一般没人使用。</p>
-* [Java 中使用Redis 简单操作](https://www.zeekling.cn/articles/2020/06/22/1592757637089.html) 
- > <p>换了工作之后在华为搞FusionInsight的redis组件，复习下redis相关的知识。从简单的数据操作开始。</p>
-* [环材化生劝退计划](https://www.zeekling.cn/articles/2020/06/17/1592323471534.html) 
- > <p></p><h1 align="center">环材化生劝退计划</h1>
- > <p align="center">劝退一人胜发七篇 CNS</p>
- > <p></p>
-* [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
- > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
-* [人生第一次](https://www.zeekling.cn/articles/2020/03/22/1584880355664.html) 
- > <p>洞察人间凡事，体味人生百态。央视网系列人文纪录片《人生第一次》旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”：第一次上学、第一次上班、第一次走进军营，许多“第一次”串联起我们人生的重要节点，“初来乍到，请多关照”。</p>
-* [bolo 博客接入又拍云图床](https://www.zeekling.cn/articles/2020/06/09/1591638203577.html) 
- > <p>我之前博客里面的图片都是用了自己搭建的<a href="https://img.zeekling.cn/" target="_blank">相册</a>里面的，但是毕竟不太方便。并且最近正在搞又拍云的cdn。就顺手把图床这个是也搞定了吧。</p>
-* [博客接入又拍云cdn](https://www.zeekling.cn/articles/2020/06/07/1591520906274.html) 
- > <p>由于本人腾讯云服务器的是按照流量收费的，最近网站流量跑的比较快，所以打算接入cdn，把图片缓存下来，减少流量直接打到服务器上面。</p>
-* [Kafka深入解析](https://www.zeekling.cn/articles/2020/05/24/1590327441358.html) 
- > <p>Kafka中消息是以topic进行分类的，生产者生产消息，消费者消费消息，都是面向topic的。<br>
- > topic是逻辑上的概念，而partition是物理上的概念，每个partition对应于一个log文件，该log文件中存储的就是producer生产的数据。Producer生产的数据会被不断追加到该log文件末端，且每条数据都有自己的offset。消费者组中的每个消费者，都会实时记录自己消费到了哪个offset，以便出错恢复时，从上次的位置继续消费。</p>
-* [Kafka概述](https://www.zeekling.cn/articles/2020/05/24/1590324636321.html) 
- > <p>Kafka是<strong>一个分布式的基于发布/订阅模式的消息队列</strong>，主要应用于大数据实时处理领域。</p>
-* [白蛇缘起](https://www.zeekling.cn/articles/2019/07/14/1563077032010.html) 
- > <p>白蛇缘起，一部国漫的巅峰之作的代表。</p>
-* [决策树详解](https://www.zeekling.cn/articles/2019/07/20/1563605756560.html) 
- > <p>和支持向量机一样， 决策树是一种多功能机器学习算法， 即可以执行分类任务也可以执行回归任务， 甚至包括多输出（multioutput）任务.</p>
 
 
 
