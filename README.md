@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www/zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-07-28 00:03:03`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-07-28 00:09:14`
 
 <p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">小令童鞋
 </h2>
@@ -15,8 +15,7 @@
 ### 最新
 
 * 📝 [环材化生劝退计划](https://www.zeekling.cn/articles/2020/06/17/1592323471534.html) 
-    > <p>环材化生劝退计划</p>
-    > <p>劝退一人胜发七篇 CNS</p>
+    > <p>环材化生劝退计划  劝退一人胜发七篇 CNS</p>
 * 📝 [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html) 
     > <p>最近github可以显示类似于主页的东西了，所以打算将自己最新的博客推送到github主页。</p>
     > <p>我的github主页:<a href="https://github.com/zeekling" target="_blank">zeekling</a></p>
