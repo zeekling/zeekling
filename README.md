@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www/zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-01 12:00:17`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-02 00:00:19`
 
 <p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">小令童鞋
 </h2>
@@ -14,11 +14,11 @@
 
 ### 最新
 
-* 📝 [环材化生劝退计划](https://www.zeekling.cn/articles/2020/06/17/1592323471534.html) 
-    > <p>环材化生劝退计划  劝退一人胜发七篇 CNS</p>
 * 📝 [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html) 
     > <p>最近github可以显示类似于主页的东西了，所以打算将自己最新的博客推送到github主页。</p>
     > <p>我的github主页:<a href="https://github.com/zeekling" target="_blank">zeekling</a></p>
+* 📝 [环材化生劝退计划](https://www.zeekling.cn/articles/2020/06/17/1592323471534.html) 
+    > <p>环材化生劝退计划  劝退一人胜发七篇 CNS</p>
 * 📝 [Redis 慢查询分析](https://www.zeekling.cn/articles/2020/07/23/1595493094855.html) 
     > <p>在慢查询的定义中，统计比较慢的时间段指的是<strong>命令执行</strong>这个步骤。没有慢查询，并不表示客户端没有超时问题，有可能网络传输有延迟，也有可能排队的命令比较多。</p>
     > <p>因为Redis中命令执行的排队机制，慢查询会导致其他命令的级联阻塞，所以当客户端出现请求超时的时候，需要检查该时间点是否有慢查询，从而分析出由于慢查询导致的命令级联阻塞。</p>
