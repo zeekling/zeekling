@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-03 12:00:15`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-04 00:00:15`
 
 <p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">小令童鞋
 </h2>
@@ -14,6 +14,10 @@
 
 ### 最新
 
+* 📝 [2020半年度总结](https://www.zeekling.cn/articles/2020/08/03/1596469503281.html) 
+    > <p>转眼之间2020年已经过去一半时间了，时间过得真快，想想自己写<a href="https://www.zeekling.cn/articles/2019/08/27/1566917470370.html">2019年半年度总结</a>没过多久。总结下前半年的收获。</p>
+* 📝 [2020年计划](https://www.zeekling.cn/articles/2020/01/01/1577875457805.html) 
+    > <p>转眼之间已经到了 2020 年，按照往年的经验来讲是需要做一个 2020 年的计划。希望自己的 2020 年，是一个值得回忆，有所收获的一年，而不是碌碌无为的一年。</p>
 * 📝 [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html) 
     > <p>最近github可以显示类似于主页的东西了，所以打算将自己最新的博客推送到github主页。</p>
     > <p>我的github主页:<a href="https://github.com/zeekling" target="_blank">zeekling</a></p>
@@ -36,14 +40,6 @@
     > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>本站主要是讲述一个自闭的二逼青年如何自救的一个过程，是一个消费大把大把青春的地方。</p>
-* 📝 [2020年红河谷游玩](https://www.zeekling.cn/articles/2020/06/06/1591450599075.html) 
-    > <p>2020.06.06日，部门组织去红河谷景区游玩，由于我刚来到西安，也没有怎么出去玩，所以就报了名，参加了红河谷的团建。<br>
-    > 玩了一天，跑了好多个景点，感觉不太亏。</p>
-* 📝 [Kafka API操作实践](https://www.zeekling.cn/articles/2020/05/17/1589721212901.html) 
-    > <p>  Kafka的Producer发送消息采用的是<strong>异步发送</strong>的方式。在消息发送的过程中，涉及到了<strong>两个线程——main线程和Sender线程</strong>，以及<strong>一个线程共享变量——RecordAccumulator</strong>。main线程将消息发送给RecordAccumulator，Sender线程不断从RecordAccumulator中拉取消息发送到Kafka broker。<br>
-    > Consumer消费数据时的可靠性是很容易保证的，因为数据在Kafka中是持久化的，故不用担心数据丢失问题。<br>
-    >   由于consumer在消费过程中可能会出现断电宕机等故障，consumer恢复后，需要从故障前的位置的继续消费，所以consumer需要实时记录自己消费到了哪个offset，以便故障恢复后继续消费。<br>
-    >   所以offset的维护是Consumer消费数据是必须考虑的问题。</p>
 
 
 
