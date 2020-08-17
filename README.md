@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-17 00:00:30`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-17 12:00:20`
 
 <p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">小令童鞋
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [个人网站禁止复制站点内容](https://www.zeekling.cn/articles/2020/08/17/1597593928362.html) 
+    > <p>一般个人网站都不喜欢别人复制自己的东西，于是与我就研究了下怎么禁用网站的复制。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>本站主要是讲述一个自闭的二逼青年如何自救的一个过程，是一个消费大把大把青春的地方。</p>
 * 📝 [Data Source 介绍](https://www.zeekling.cn/articles/2020/05/03/1588494729955.html) 
@@ -37,8 +39,6 @@
     > topic是逻辑上的概念，而partition是物理上的概念，每个partition对应于一个log文件，该log文件中存储的就是producer生产的数据。Producer生产的数据会被不断追加到该log文件末端，且每条数据都有自己的offset。消费者组中的每个消费者，都会实时记录自己消费到了哪个offset，以便出错恢复时，从上次的位置继续消费。</p>
 * 📝 [Kafka概述](https://www.zeekling.cn/articles/2020/05/24/1590324636321.html) 
     > <p>Kafka是<strong>一个分布式的基于发布/订阅模式的消息队列</strong>，主要应用于大数据实时处理领域。</p>
-* 📝 [博客接入又拍云cdn](https://www.zeekling.cn/articles/2020/06/07/1591520906274.html) 
-    > <p>由于本人腾讯云服务器的是按照流量收费的，最近网站流量跑的比较快，所以打算接入cdn，把图片缓存下来，减少流量直接打到服务器上面。</p>
 
 
 
