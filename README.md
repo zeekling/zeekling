@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-20 12:00:19`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-21 00:00:29`
 
 <p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">小令童鞋
 </h2>
@@ -14,31 +14,38 @@
 
 ### 最新
 
-* 📝 [个人网站禁止复制站点内容](https://www.zeekling.cn/articles/2020/08/17/1597593928362.html) 
-    > <p>一般个人网站都不喜欢别人复制自己的东西，于是与我就研究了下怎么禁用网站的复制。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>本站主要是讲述一个自闭的二逼青年如何自救的一个过程，是一个消费大把大把青春的地方。</p>
-* 📝 [Data Source 介绍](https://www.zeekling.cn/articles/2020/05/03/1588494729955.html) 
-    > <p>Data Sources 是什么呢？就字面意思其实就可以知道：数据来源。<br>
-    > Flink 做为一款流式计算框架，它可用来做批处理，即处理静态的数据集、历史的数据集；也可以用来做流处理，即实时的处理些实时数据流，实时的产生数据流结果，只要数据源源不断的过来，Flink 就能够一直计算下去，这个 Data Sources 就是数据的来源地。</p>
-* 📝 [Data Sink 介绍](https://www.zeekling.cn/articles/2020/05/04/1588666906660.html) 
-    > <p>Source 就是数据的来源，中间的 Compute 其实就是 Flink 干的事情，可以做一系列的操作，操作完后就把计算后的数据结果 Sink 到某个地方。（可以是 MySQL、ElasticSearch、Kafka、Cassandra 等）。这里我说下自己目前做告警这块就是把 Compute 计算后的结果 Sink 直接告警出来了（发送告警消息到钉钉群、邮件、短信等），这个 sink 的意思也不一定非得说成要把数据存储到某个地方去。其实官网用的 Connector 来形容要去的地方更合适，这个 Connector 可以有 MySQL、ElasticSearch、Kafka、Cassandra RabbitMQ 等。</p>
-* 📝 [如何自定义 Data Source ](https://www.zeekling.cn/articles/2020/05/04/1588559095224.html) 
-    > <p>在 <a href="https://www.zeekling.cn/articles/2020/05/03/1588494729955.html">Data Source 介绍</a> 文章中，我给大家介绍了 Flink Data Source 以及简短的介绍了一下自定义 Data Source，这篇文章更详细的介绍下，并写一个 demo 出来让大家理解。</p>
-* 📝 [自定义Data Sink](https://www.zeekling.cn/articles/2020/05/05/1588680092763.html) 
-    > <p>上一篇文章介绍了 Flink Data Sink，也介绍了 Flink 自带的 Sink，那么如何自定义自己的 Sink 呢？这篇文章将写一个 demo 教大家将从 Kafka Source 的数据 Sink 到 MySQL 中去。</p>
-* 📝 [Flink 写入数据到 Kafka](https://www.zeekling.cn/articles/2020/05/15/1589474545288.html) 
-    > <p>通过Flink官网可以看到Flink里面就默认支持了不少sink，比如也支持Kafka sink connector（FlinkKafkaProducer），那么这篇文章我们就来看看如何将数据写入到Kafka。</p>
-* 📝 [Kafka API操作实践](https://www.zeekling.cn/articles/2020/05/17/1589721212901.html) 
-    > <p>  Kafka的Producer发送消息采用的是<strong>异步发送</strong>的方式。在消息发送的过程中，涉及到了<strong>两个线程——main线程和Sender线程</strong>，以及<strong>一个线程共享变量——RecordAccumulator</strong>。main线程将消息发送给RecordAccumulator，Sender线程不断从RecordAccumulator中拉取消息发送到Kafka broker。<br>
-    > Consumer消费数据时的可靠性是很容易保证的，因为数据在Kafka中是持久化的，故不用担心数据丢失问题。<br>
-    >   由于consumer在消费过程中可能会出现断电宕机等故障，consumer恢复后，需要从故障前的位置的继续消费，所以consumer需要实时记录自己消费到了哪个offset，以便故障恢复后继续消费。<br>
-    >   所以offset的维护是Consumer消费数据是必须考虑的问题。</p>
-* 📝 [Kafka深入解析](https://www.zeekling.cn/articles/2020/05/24/1590327441358.html) 
-    > <p>Kafka中消息是以topic进行分类的，生产者生产消息，消费者消费消息，都是面向topic的。<br>
-    > topic是逻辑上的概念，而partition是物理上的概念，每个partition对应于一个log文件，该log文件中存储的就是producer生产的数据。Producer生产的数据会被不断追加到该log文件末端，且每条数据都有自己的offset。消费者组中的每个消费者，都会实时记录自己消费到了哪个offset，以便出错恢复时，从上次的位置继续消费。</p>
-* 📝 [Kafka概述](https://www.zeekling.cn/articles/2020/05/24/1590324636321.html) 
-    > <p>Kafka是<strong>一个分布式的基于发布/订阅模式的消息队列</strong>，主要应用于大数据实时处理领域。</p>
+* 📝 [个人网站禁止复制站点内容](https://www.zeekling.cn/articles/2020/08/17/1597593928362.html) 
+    > <p>一般个人网站都不喜欢别人复制自己的东西，于是与我就研究了下怎么禁用网站的复制。</p>
+* 📝 [2020半年度总结](https://www.zeekling.cn/articles/2020/08/03/1596469503281.html) 
+    > <p>转眼之间2020年已经过去一半时间了，时间过得真快，想想自己写<a href="https://www.zeekling.cn/articles/2019/08/27/1566917470370.html">2019年半年度总结</a>没过多久。总结下前半年的收获。</p>
+* 📝 [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html) 
+    > <p>最近github可以显示类似于主页的东西了，所以打算将自己最新的博客推送到github主页。</p>
+    > <p>我的github主页:<a href="https://github.com/zeekling" target="_blank">zeekling</a></p>
+* 📝 [Redis 慢查询分析](https://www.zeekling.cn/articles/2020/07/23/1595493094855.html) 
+    > <p>在慢查询的定义中，统计比较慢的时间段指的是<strong>命令执行</strong>这个步骤。没有慢查询，并不表示客户端没有超时问题，有可能网络传输有延迟，也有可能排队的命令比较多。</p>
+    > <p>因为Redis中命令执行的排队机制，慢查询会导致其他命令的级联阻塞，所以当客户端出现请求超时的时候，需要检查该时间点是否有慢查询，从而分析出由于慢查询导致的命令级联阻塞。</p>
+* 📝 [Redis 集群详解](https://www.zeekling.cn/articles/2020/07/21/1595342026052.html) 
+    > <p>Redis Cluster 即 Redis 集群，是 Redis 官方在 3.0 版本推出的一套分布式存储方案。完全去中心化，由多个节点组成，所有节点彼此互联。Redis 客户端可以直接连接任何一节点获取集群中的键值对，不需要中间代理，如果该节点不存在用户所指定的键值，其内部会自动把客户端重定向到键值所在的节点。</p>
+    > <p>Redis 集群是一个网状结构，每个节点都通过 TCP 连接跟其他每个节点连接。在一个有 N 个节点的集群中，每个节点都有 N-1 个流出的 TCP 连接，和 N-1 个流入的连接，这些 TCP 连接会永久保持。</p>
+* 📝 [Redis Sentinel哨兵机制](https://www.zeekling.cn/articles/2020/07/21/1595343778998.html) 
+    > <p>Redis的哨兵(sentinel) 系统用于管理多个 Redis 服务器,该系统执行以下三个任务:</p>
+    > <p><strong>监控(Monitoring):</strong> 哨兵(sentinel) 会不断地检查你的Master和Slave是否运作正常。</p>
+    > <p><strong>提醒(Notification):</strong> 当被监控的某个 Redis出现问题时, 哨兵(sentinel) 可以通过 API 向管理员或者其他应用程序发送通知。</p>
+    > <p><strong>自动故障迁移(Automatic failover):</strong> 当一个Master不能正常工作时，哨兵(sentinel) 会开始一次自动故障迁移操作,它会将失效Master的其中一个Slave升级为新的Master, 并让失效Master的其他Slave改为复制新的Master; 当客户端试图连接失效的Master时,集群也会向客户端返回新Master的地址,使得集群可以使用Master代替失效Master。</p>
+* 📝 [理解Redis的内存](https://www.zeekling.cn/articles/2020/07/04/1593860561539.html) 
+    > <p>Redis 是一种内存数据库，将数据保存在内存中，读写效率要比传统的将数据保存在磁盘上的数据库要快很多。所以，监控 Redis 的内存消耗并了解 Redis 内存模型对高效并长期稳定使用 Redis 至关重要。</p>
+* 📝 [Java 中使用Redis 简单操作](https://www.zeekling.cn/articles/2020/06/22/1592757637089.html) 
+    > <p>换了工作之后在华为搞FusionInsight的redis组件，复习下redis相关的知识。从简单的数据操作开始。</p>
+* 📝 [Redis数据清理详解](https://www.zeekling.cn/articles/2020/06/22/1592922698436.html) 
+    > <p>Redis常用的删除策略有以下三种：</p>
+    > <ul>
+    > <li>被动删除（惰性删除）：当读/写一个已经过期的Key时，会触发惰性删除策略，直接删除掉这个Key;</li>
+    > <li>主动删除（定期删除）：Redis会定期巡检，来清理过期Key；</li>
+    > <li>当内存达到maxmemory配置时候，会触发Key的删除操作；</li>
+    > </ul>
+    > <p>另外，还有一种基于触发器的删除策略，因为对Redis压力太大，一般没人使用。</p>
 
 
 
