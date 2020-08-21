@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-21 00:00:29`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-08-21 12:00:19`
 
 <p align="center"><img alt="小令童鞋" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">小令童鞋
 </h2>
@@ -14,6 +14,10 @@
 
 ### 最新
 
+* 📝 [bolo博客图片显示优化](https://www.zeekling.cn/articles/2020/08/21/1597945367713.html) 
+    > <p>想改这个图片显示的原因是博客里面的图片点击之后就会直接跳转，优点烦躁于是就改了皮肤bolo-fantastic的图片显示样式。</p>
+* 📝 [我的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>本站主要是讲述一个自闭的二逼青年如何自救的一个过程，是一个消费大把大把青春的地方。</p>
 * 📝 [个人网站禁止复制站点内容](https://www.zeekling.cn/articles/2020/08/17/1597593928362.html) 
@@ -36,16 +40,6 @@
     > <p><strong>自动故障迁移(Automatic failover):</strong> 当一个Master不能正常工作时，哨兵(sentinel) 会开始一次自动故障迁移操作,它会将失效Master的其中一个Slave升级为新的Master, 并让失效Master的其他Slave改为复制新的Master; 当客户端试图连接失效的Master时,集群也会向客户端返回新Master的地址,使得集群可以使用Master代替失效Master。</p>
 * 📝 [理解Redis的内存](https://www.zeekling.cn/articles/2020/07/04/1593860561539.html) 
     > <p>Redis 是一种内存数据库，将数据保存在内存中，读写效率要比传统的将数据保存在磁盘上的数据库要快很多。所以，监控 Redis 的内存消耗并了解 Redis 内存模型对高效并长期稳定使用 Redis 至关重要。</p>
-* 📝 [Java 中使用Redis 简单操作](https://www.zeekling.cn/articles/2020/06/22/1592757637089.html) 
-    > <p>换了工作之后在华为搞FusionInsight的redis组件，复习下redis相关的知识。从简单的数据操作开始。</p>
-* 📝 [Redis数据清理详解](https://www.zeekling.cn/articles/2020/06/22/1592922698436.html) 
-    > <p>Redis常用的删除策略有以下三种：</p>
-    > <ul>
-    > <li>被动删除（惰性删除）：当读/写一个已经过期的Key时，会触发惰性删除策略，直接删除掉这个Key;</li>
-    > <li>主动删除（定期删除）：Redis会定期巡检，来清理过期Key；</li>
-    > <li>当内存达到maxmemory配置时候，会触发Key的删除操作；</li>
-    > </ul>
-    > <p>另外，还有一种基于触发器的删除策略，因为对Redis压力太大，一般没人使用。</p>
 
 
 
