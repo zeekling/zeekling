@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-08 11:10:01`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-08 12:00:14`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
+    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>本站主要是讲述一个自闭的二逼青年如何自救的一个过程，是一个消费大把大把青春的地方。</p>
 * 📝 [人生第一次](https://www.zeekling.cn/articles/2020/03/22/1584880355664.html) 
@@ -22,9 +24,6 @@
     > <p>由于本人腾讯云服务器的是按照流量收费的，最近网站流量跑的比较快，所以打算接入cdn，把图片缓存下来，减少流量直接打到服务器上面。</p>
 * 📝 [bolo 博客接入又拍云图床](https://www.zeekling.cn/articles/2020/06/09/1591638203577.html) 
     > <p>我之前博客里面的图片都是用了自己搭建的<a href="https://img.zeekling.cn/" target="_blank">相册</a>里面的，但是毕竟不太方便。并且最近正在搞又拍云的cdn。就顺手把图床这个是也搞定了吧。</p>
-* 📝 [自动跟新最新博客到github主页](https://www.zeekling.cn/articles/2020/07/26/1595773591724.html) 
-    > <p>最近github可以显示类似于主页的东西了，所以打算将自己最新的博客推送到github主页。</p>
-    > <p>我的github主页:<a href="https://github.com/zeekling" target="_blank">zeekling</a></p>
 
 
 
