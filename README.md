@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-20 12:00:14`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-21 00:00:32`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,10 @@
 
 ### 最新
 
+* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
+    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
+* 📝 [vscode 查看Redis源码](https://www.zeekling.cn/articles/2020/10/20/1603198382711.html) 
+    > <p>最近在学习Redis源码，主要是目前负责华为产品<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a>中Redis组件的相关事务，不得不学习Redis源码。本文主要讲述的是怎么通过vscode查看Redis的源码(Linux平台下面).</p>
 * 📝 [周末唐爵山宿](https://www.zeekling.cn/articles/2020/10/18/1603029580658.html) 
     > <p>前段时间版本过点，上班忙成狗，最近版本已经发布了，和组内的的同事们去唐爵去放松了一波。</p>
 * 📝 [【Redis源码阅读】Redis命令执行过程](https://www.zeekling.cn/articles/2020/10/09/1602258239840.html) 
@@ -23,15 +27,11 @@
     > <p><a href="/articles/2020/10/06/1601975298948.html" target="_blank">Redis事件监听</a></p>
     > </blockquote>
     > <p>在Redis事件监听中我们了解到在创建文件监听事件的时候<code>acceptTcpHandler</code>就是的执行函数。</p>
-* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
-    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
 * 📝 [秦时明月沧海横流开播](https://www.zeekling.cn/articles/2020/10/08/1602135156440.html) 
     > <p></p><p style="text-align:center">寒霜化雪沧海露，</p>
     > <p style="text-align:center">天涯明月共此时。</p>
     > <p style="text-align:center">今日秦时明月沧海横流开播了</p>
     > <p></p>
-* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
-    > <p>本站主要是讲述一个自闭的二逼青年如何自救的一个过程，是一个消费大把大把青春的地方。</p>
 
 
 
