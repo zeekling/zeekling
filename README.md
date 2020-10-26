@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-26 12:00:12`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-27 00:00:26`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,10 @@
 
 ### 最新
 
+* 📝 [frp 内网穿透](https://www.zeekling.cn/articles/2019/08/11/1565501357107.html) 
+    > <p>本人使用了树莓派作为了家里一直吃灰的服务器，想让树莓派上面的东西外网可以访问(博客也是部署在树莓派上面的),所以就有了 frp 内网穿透这一说法。</p>
+* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
+    > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
 * 📝 [我的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
@@ -29,6 +33,11 @@
     > <p><a href="/articles/2020/10/06/1601975298948.html" target="_blank">Redis事件监听</a></p>
     > </blockquote>
     > <p>在Redis事件监听中我们了解到在创建文件监听事件的时候<code>acceptTcpHandler</code>就是的执行函数。</p>
+* 📝 [秦时明月沧海横流开播](https://www.zeekling.cn/articles/2020/10/08/1602135156440.html) 
+    > <p></p><p style="text-align:center">寒霜化雪沧海露，</p>
+    > <p style="text-align:center">天涯明月共此时。</p>
+    > <p style="text-align:center">今日秦时明月沧海横流开播了</p>
+    > <p></p>
 
 
 
