@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-28 12:00:16`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-29 00:00:29`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,10 @@
 
 ### 最新
 
+* 📝 [K近邻算法(KNN)详解](https://www.zeekling.cn/articles/2019/09/15/1568531141390.html) 
+    > <p>K近邻算法，即是给定一个训练数据集，对新的输入实例，在训练数据集中找到与该实例<strong>最邻近</strong>的K个实例，<strong>这K个实例的多数属于某个类</strong>，就把该输入实例分类到这个类中.</p>
+* 📝 [深入理解L1,L2正则化](https://www.zeekling.cn/articles/2019/09/22/1569160001367.html) 
+    > <p><strong>正则化(Regularization)</strong> 是机器学习中对原始损失函数引入额外信息，以便防止过拟合和提高模型泛化性能的一类方法的统称。正则化是在经验风险上面加了一个正则化项或者惩罚项,正则化函数一般是模型法则度的单调增函数,模型越负责,正则化值就越大.</p>
 * 📝 [frp 内网穿透](https://www.zeekling.cn/articles/2019/08/11/1565501357107.html) 
     > <p>本人使用了树莓派作为了家里一直吃灰的服务器，想让树莓派上面的东西外网可以访问(博客也是部署在树莓派上面的),所以就有了 frp 内网穿透这一说法。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
@@ -26,18 +30,6 @@
     > <p>最近在学习Redis源码，主要是目前负责华为产品<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a>中Redis组件的相关事务，不得不学习Redis源码。本文主要讲述的是怎么通过vscode查看Redis的源码(Linux平台下面).</p>
 * 📝 [周末唐爵山宿](https://www.zeekling.cn/articles/2020/10/18/1603029580658.html) 
     > <p>前段时间版本过点，上班忙成狗，最近版本已经发布了，和组内的的同事们去唐爵去放松了一波。</p>
-* 📝 [【Redis源码阅读】Redis命令执行过程](https://www.zeekling.cn/articles/2020/10/09/1602258239840.html) 
-    > <p>需要了解Redis命令执行过程，请先了解Redis启动过程和Redis事件监听。</p>
-    > <blockquote>
-    > <p><a href="/articles/2020/09/25/1601041404734.html" target="_blank">Redis启动过程分析</a></p>
-    > <p><a href="/articles/2020/10/06/1601975298948.html" target="_blank">Redis事件监听</a></p>
-    > </blockquote>
-    > <p>在Redis事件监听中我们了解到在创建文件监听事件的时候<code>acceptTcpHandler</code>就是的执行函数。</p>
-* 📝 [秦时明月沧海横流开播](https://www.zeekling.cn/articles/2020/10/08/1602135156440.html) 
-    > <p></p><p style="text-align:center">寒霜化雪沧海露，</p>
-    > <p style="text-align:center">天涯明月共此时。</p>
-    > <p style="text-align:center">今日秦时明月沧海横流开播了</p>
-    > <p></p>
 
 
 
