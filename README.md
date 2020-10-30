@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-30 12:00:24`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-31 00:00:39`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,14 @@
 
 ### 最新
 
+* 📝 [bolo-fantastic皮肤整改](https://www.zeekling.cn/articles/2020/09/04/1599150574976.html) 
+    > <p>整改皮肤bolo-fantastic的原因如下：</p>
+    > <ul>
+    > <li>bolo-fantastic 挺好看的，至少我挺喜欢的。</li>
+    > <li>存在一些看起来不那么完美的地方。</li>
+    > <li>我有病(可能是最主要的原因)。</li>
+    > </ul>
+    > <p>于是就有了整改。</p>
 * 📝 [docker镜像安装oracle](https://www.zeekling.cn/articles/2020/10/29/1603902984323.html) 
     > <p>在 <code>debian</code>中安装 <code>docker</code>，并且在 <code>docker</code>环境下使用 <code>oracle</code>。</p>
 * 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
@@ -28,8 +36,6 @@
     > <p>本人使用了树莓派作为了家里一直吃灰的服务器，想让树莓派上面的东西外网可以访问(博客也是部署在树莓派上面的),所以就有了 frp 内网穿透这一说法。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
-* 📝 [我的书单](https://www.zeekling.cn/book.html) 
-    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 
 
 
