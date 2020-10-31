@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-31 12:00:24`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-01 00:00:42`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
+    > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
 * 📝 [我的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [bolo-fantastic皮肤整改](https://www.zeekling.cn/articles/2020/09/04/1599150574976.html) 
@@ -34,8 +36,6 @@
     > <p>K近邻算法，即是给定一个训练数据集，对新的输入实例，在训练数据集中找到与该实例<strong>最邻近</strong>的K个实例，<strong>这K个实例的多数属于某个类</strong>，就把该输入实例分类到这个类中.</p>
 * 📝 [深入理解L1,L2正则化](https://www.zeekling.cn/articles/2019/09/22/1569160001367.html) 
     > <p><strong>正则化(Regularization)</strong> 是机器学习中对原始损失函数引入额外信息，以便防止过拟合和提高模型泛化性能的一类方法的统称。正则化是在经验风险上面加了一个正则化项或者惩罚项,正则化函数一般是模型法则度的单调增函数,模型越负责,正则化值就越大.</p>
-* 📝 [frp 内网穿透](https://www.zeekling.cn/articles/2019/08/11/1565501357107.html) 
-    > <p>本人使用了树莓派作为了家里一直吃灰的服务器，想让树莓派上面的东西外网可以访问(博客也是部署在树莓派上面的),所以就有了 frp 内网穿透这一说法。</p>
 
 
 
