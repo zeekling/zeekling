@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-31 00:00:39`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-10-31 12:00:24`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [我的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [bolo-fantastic皮肤整改](https://www.zeekling.cn/articles/2020/09/04/1599150574976.html) 
     > <p>整改皮肤bolo-fantastic的原因如下：</p>
     > <ul>
@@ -34,8 +36,6 @@
     > <p><strong>正则化(Regularization)</strong> 是机器学习中对原始损失函数引入额外信息，以便防止过拟合和提高模型泛化性能的一类方法的统称。正则化是在经验风险上面加了一个正则化项或者惩罚项,正则化函数一般是模型法则度的单调增函数,模型越负责,正则化值就越大.</p>
 * 📝 [frp 内网穿透](https://www.zeekling.cn/articles/2019/08/11/1565501357107.html) 
     > <p>本人使用了树莓派作为了家里一直吃灰的服务器，想让树莓派上面的东西外网可以访问(博客也是部署在树莓派上面的),所以就有了 frp 内网穿透这一说法。</p>
-* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
-    > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
 
 
 
