@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-01 12:00:21`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-02 00:00:52`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,10 +14,32 @@
 
 ### 最新
 
-* 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
-    > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
-* 📝 [我的书单](https://www.zeekling.cn/book.html) 
-    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
+* 📝 [Redis 6新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html) 
+    > <p>Redis6.0.0稳定版出来了。这一次是从发布第一个候选版本到最终发布稳定版本之间的一个相对较短的周期。它花了大约四个月的时间，这不是一个小数目的时间，但与我们过去的记录相比，也不是很多。</p>
+    > <p>主要的变化有：</p>
+    > <p>SSL、ACLs、RESP3、客户端缓存、线程I/O、副本上的无盘复制、Redis benchmark中的集群支持和改进的Redis cli集群支持、Redis作为Redis的一个模块，以及Redis集群代理。</p>
+* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
+    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
+* 📝 [腾讯云服务器优化](https://www.zeekling.cn/articles/2019/12/21/1576925825908.html) 
+    > <p>大概就是在几个月之前本人租了一台服务器用来搭建自己的博客(原来的博客是在阿里云香港服务器上面,在十一期间被和谐了),于是租用了1核1G内存的云服务器(三年800多元),可是在使用的过程中发现cpu和内存占用有点异常,查了下发现以下问题:</p>
+    > <ul>
+    > <li>服务器上面跑着几个监控软件(并没有什么),占了好多CPU.</li>
+    > <li>服务器没有swap分区,1G虽然够用,但是优点不爽</li>
+    > <li>内存的缓存部分占得比例比较大</li>
+    > <li>磁盘变大了好多,但是本人安装的几个软件都不会占这么多磁盘</li>
+    > </ul>
+* 📝 [根据站点生成sitemap.xml的脚本](https://www.zeekling.cn/articles/2020/03/22/1584855312392.html) 
+    > <p>本人远程服务器上面除了搭建<a href="https://www.zeekling.cn/" title="ZEEKLING">博客</a>之外，还搭建了<a href="https://git.zeekling.cn/zeekling" target="_blank">Gitea私人代码仓库</a>和<a href="https://img.zeekling.cn/" target="_blank">图床</a>服务，但是两个服务上面都没有自带 <code>sitemap.xml</code>，不方便搜索引擎收录对应的链接。于是乎自己写了个脚本用来自动生成 <code>sitemap.xml</code></p>
+* 📝 [Gitea 仓库rss订阅生成](https://www.zeekling.cn/articles/2020/04/21/1587449187524.html) 
+    > <p>本人使用Gitea 搭建了私人仓库，并且在<a href="https://storeweb.cn/site/one/971" target="_blank">个站商店</a> 上面添加了自己的仓库，但是Gitea没有提供站点地图和rss订阅相关功能，于是自己就写了脚本来做这件事，站点地图的详见<a href="https://www.zeekling.cn/articles/2020/03/22/1584855312392.html">根据站点生成sitemap.xml的脚本</a> 。</p>
+    > <p>本文就是处理rss订阅的脚本。</p>
+* 📝 [Gogs迁移Gitea](https://www.zeekling.cn/articles/2020/02/23/1582470250287.html) 
+    > <p></p><ul>
+    > <li>Gogs 更新功能比 Gitea 少很多，虽然不一定用得到。</li>
+    > <li>Gitea 更新快，一些 bug 解决的快一点(虽然我没发现什么 bug)</li>
+    > <li>可能是因为我 Gogs 用的时间久了，出现了视觉疲劳？</li>
+    > </ul>
+    > <p></p>
 * 📝 [bolo-fantastic皮肤整改](https://www.zeekling.cn/articles/2020/09/04/1599150574976.html) 
     > <p>整改皮肤bolo-fantastic的原因如下：</p>
     > <ul>
@@ -26,16 +48,8 @@
     > <li>我有病(可能是最主要的原因)。</li>
     > </ul>
     > <p>于是就有了整改。</p>
-* 📝 [docker镜像安装oracle](https://www.zeekling.cn/articles/2020/10/29/1603902984323.html) 
-    > <p>在 <code>debian</code>中安装 <code>docker</code>，并且在 <code>docker</code>环境下使用 <code>oracle</code>。</p>
-* 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
-    > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
-* 📝 [决策树详解](https://www.zeekling.cn/articles/2019/07/20/1563605756560.html) 
-    > <p>和支持向量机一样， 决策树是一种多功能机器学习算法， 即可以执行分类任务也可以执行回归任务， 甚至包括多输出（multioutput）任务.</p>
-* 📝 [K近邻算法(KNN)详解](https://www.zeekling.cn/articles/2019/09/15/1568531141390.html) 
-    > <p>K近邻算法，即是给定一个训练数据集，对新的输入实例，在训练数据集中找到与该实例<strong>最邻近</strong>的K个实例，<strong>这K个实例的多数属于某个类</strong>，就把该输入实例分类到这个类中.</p>
-* 📝 [深入理解L1,L2正则化](https://www.zeekling.cn/articles/2019/09/22/1569160001367.html) 
-    > <p><strong>正则化(Regularization)</strong> 是机器学习中对原始损失函数引入额外信息，以便防止过拟合和提高模型泛化性能的一类方法的统称。正则化是在经验风险上面加了一个正则化项或者惩罚项,正则化函数一般是模型法则度的单调增函数,模型越负责,正则化值就越大.</p>
+* 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
+    > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
 
 
 
