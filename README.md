@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-02 00:00:52`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-02 12:00:21`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,7 +14,11 @@
 
 ### 最新
 
-* 📝 [Redis 6新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html) 
+* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
+    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
+    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
+    > <p>闲来无事，写心中所想、所思。</p>
+* 📝 [Redis 6 新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html) 
     > <p>Redis6.0.0稳定版出来了。这一次是从发布第一个候选版本到最终发布稳定版本之间的一个相对较短的周期。它花了大约四个月的时间，这不是一个小数目的时间，但与我们过去的记录相比，也不是很多。</p>
     > <p>主要的变化有：</p>
     > <p>SSL、ACLs、RESP3、客户端缓存、线程I/O、副本上的无盘复制、Redis benchmark中的集群支持和改进的Redis cli集群支持、Redis作为Redis的一个模块，以及Redis集群代理。</p>
@@ -48,8 +52,6 @@
     > <li>我有病(可能是最主要的原因)。</li>
     > </ul>
     > <p>于是就有了整改。</p>
-* 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
-    > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
 
 
 
