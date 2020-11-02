@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-02 12:00:21`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-03 00:00:35`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [人生第一次（出生）](https://www.zeekling.cn/articles/2020/03/22/1584880355664.html) 
+    > <p>洞察人间凡事，体味人生百态。央视网系列人文纪录片《人生第一次》旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”：第一次上学、第一次上班、第一次走进军营，许多“第一次”串联起我们人生的重要节点，“初来乍到，请多关照”。</p>
+* 📝 [博客从solo迁移bolo](https://www.zeekling.cn/articles/2019/09/07/1587898561235.html) 
+    > <p>solo 博客使用了大概有一年的时间，总体感觉上还不错，但是从在一些其他方面的问题，就是和<a href="https://hacpai.com/" target="_blank">黑客派</a> 绑定的太死了，有时候会因为社区的原因导致博客的访问量不准确，以及同一ip访问次数过频繁的时候会导致博客访问不了。</p>
+* 📝 [Error Downloading MNIST解决方案](https://www.zeekling.cn/articles/2019/07/07/1562477393183.html) 
+    > <p>下载MNIST数据集的时候报错:ConnectionResetError: [Errno 104] Connection reset by peer</p>
 * 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
     > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
     > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
@@ -34,24 +40,6 @@
     > </ul>
 * 📝 [根据站点生成sitemap.xml的脚本](https://www.zeekling.cn/articles/2020/03/22/1584855312392.html) 
     > <p>本人远程服务器上面除了搭建<a href="https://www.zeekling.cn/" title="ZEEKLING">博客</a>之外，还搭建了<a href="https://git.zeekling.cn/zeekling" target="_blank">Gitea私人代码仓库</a>和<a href="https://img.zeekling.cn/" target="_blank">图床</a>服务，但是两个服务上面都没有自带 <code>sitemap.xml</code>，不方便搜索引擎收录对应的链接。于是乎自己写了个脚本用来自动生成 <code>sitemap.xml</code></p>
-* 📝 [Gitea 仓库rss订阅生成](https://www.zeekling.cn/articles/2020/04/21/1587449187524.html) 
-    > <p>本人使用Gitea 搭建了私人仓库，并且在<a href="https://storeweb.cn/site/one/971" target="_blank">个站商店</a> 上面添加了自己的仓库，但是Gitea没有提供站点地图和rss订阅相关功能，于是自己就写了脚本来做这件事，站点地图的详见<a href="https://www.zeekling.cn/articles/2020/03/22/1584855312392.html">根据站点生成sitemap.xml的脚本</a> 。</p>
-    > <p>本文就是处理rss订阅的脚本。</p>
-* 📝 [Gogs迁移Gitea](https://www.zeekling.cn/articles/2020/02/23/1582470250287.html) 
-    > <p></p><ul>
-    > <li>Gogs 更新功能比 Gitea 少很多，虽然不一定用得到。</li>
-    > <li>Gitea 更新快，一些 bug 解决的快一点(虽然我没发现什么 bug)</li>
-    > <li>可能是因为我 Gogs 用的时间久了，出现了视觉疲劳？</li>
-    > </ul>
-    > <p></p>
-* 📝 [bolo-fantastic皮肤整改](https://www.zeekling.cn/articles/2020/09/04/1599150574976.html) 
-    > <p>整改皮肤bolo-fantastic的原因如下：</p>
-    > <ul>
-    > <li>bolo-fantastic 挺好看的，至少我挺喜欢的。</li>
-    > <li>存在一些看起来不那么完美的地方。</li>
-    > <li>我有病(可能是最主要的原因)。</li>
-    > </ul>
-    > <p>于是就有了整改。</p>
 
 
 
