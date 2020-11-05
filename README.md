@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-05 12:00:21`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-06 00:00:30`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,10 @@
 
 ### 最新
 
+* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
+    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
+    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
+    > <p>闲来无事，写心中所想、所思。</p>
 * 📝 [我的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [Redis 慢查询分析](https://www.zeekling.cn/articles/2020/07/23/1595493094855.html) 
@@ -29,10 +33,6 @@
     > <p>solo 博客使用了大概有一年的时间，总体感觉上还不错，但是从在一些其他方面的问题，就是和<a href="https://hacpai.com/" target="_blank">黑客派</a> 绑定的太死了，有时候会因为社区的原因导致博客的访问量不准确，以及同一ip访问次数过频繁的时候会导致博客访问不了。</p>
 * 📝 [Error Downloading MNIST解决方案](https://www.zeekling.cn/articles/2019/07/07/1562477393183.html) 
     > <p>下载MNIST数据集的时候报错:ConnectionResetError: [Errno 104] Connection reset by peer</p>
-* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
-    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
-    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
-    > <p>闲来无事，写心中所想、所思。</p>
 
 
 
