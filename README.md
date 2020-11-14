@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-14 12:00:30`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-15 00:00:24`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [【Redis源码】setbit命令](https://www.zeekling.cn/articles/2020/11/14/1605354792615.html) 
+    > <p>setbit命令对key所存储的字符串值，设置指定偏移量上的比特位。</p>
+    > <p><strong>格式：</strong></p>
+    > <pre><code class="language-bash highlight-chroma">setbit key offset value
+    > </code></pre>
+    > <p>返回值： 返回指定偏移量原来存储的位。</p>
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
     > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
     > <p>目前主要包含两方面：基础知识和源码解读。</p>
@@ -35,8 +41,6 @@
     > <p>在了解了set的原理之后，setnx、setex、psetex命令的原理我们也应该大致了解了，这3个命令也是先调用了tryObjectEncoding将值优化，再调用setGenericCommand将key-value设置到数据库，只不过这3个命令不需要解析额外参数。</p>
 * 📝 [【Redis源码】Redis Set命令详解](https://www.zeekling.cn/articles/2020/11/08/1604816679827.html) 
     > <p>set命令用于将key-value设置到数据库。如果key已经设置，则set会用新值覆盖旧值，不管原value是何种类型，如果在设置时不指定EX或PX参数，set命令会清除原有超时时间。</p>
-* 📝 [vscode 查看Redis源码](https://www.zeekling.cn/articles/2020/10/20/1603198382711.html) 
-    > <p>最近在学习Redis源码，主要是目前负责华为产品<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a>中Redis组件的相关事务，不得不学习Redis源码。本文主要讲述的是怎么通过vscode查看Redis的源码(Linux平台下面).</p>
 
 
 
