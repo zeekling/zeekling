@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-18 12:00:28`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-19 00:00:35`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,16 @@
 
 ### 最新
 
+* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
+    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
+    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
+    > <p>闲来无事，写心中所想、所思。</p>
+* 📝 [【leetCode】整数反转](https://www.zeekling.cn/articles/2020/11/18/1605713678816.html) 
+    > <p>给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。</p>
+* 📝 [Redis 6 新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html) 
+    > <p>Redis6.0.0稳定版出来了。这一次是从发布第一个候选版本到最终发布稳定版本之间的一个相对较短的周期。它花了大约四个月的时间，这不是一个小数目的时间，但与我们过去的记录相比，也不是很多。</p>
+    > <p>主要的变化有：</p>
+    > <p>SSL、ACLs、RESP3、客户端缓存、线程I/O、副本上的无盘复制、Redis benchmark中的集群支持和改进的Redis cli集群支持、Redis作为Redis的一个模块，以及Redis集群代理。</p>
 * 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
     > <p>当Redis cluster集群数据所在磁盘的RAID卡坏掉了之后会发生什么？集群会不会进行故障迁移，以及怎么快速恢复。</p>
 * 📝 [【Redis源码】setbit命令](https://www.zeekling.cn/articles/2020/11/14/1605354792615.html) 
@@ -35,12 +45,6 @@
     > <p><strong>格式：</strong></p>
     > <pre><code class="language-bash highlight-chroma">mget key <span class="highlight-o">[</span>key …<span class="highlight-o">]</span>
     > </code></pre>
-* 📝 [人生第一次（上学）](https://www.zeekling.cn/articles/2020/11/08/1604808358057.html) 
-    > <p>《人生第一次》是央视网联合上海广播电视台纪录片中心、腾讯视频出品的12集系列人文纪录片，本片撷取的人生断面，时间上贯穿于出生、上学、成家、立业、养老等人生中不同的阶段，空间上分布于医院、学校、军队、房产中介、村庄、工厂、老年大学等不同人生场景。本片旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”，以点带面、见微知著，表达中国人的情感、面临的挑战、坚持的价值观，折射中国当下的时代精神。</p>
-* 📝 [【Redis源码】setnx、setex、psetex命令](https://www.zeekling.cn/articles/2020/11/08/1604821520818.html) 
-    > <p>在了解了set的原理之后，setnx、setex、psetex命令的原理我们也应该大致了解了，这3个命令也是先调用了tryObjectEncoding将值优化，再调用setGenericCommand将key-value设置到数据库，只不过这3个命令不需要解析额外参数。</p>
-* 📝 [【Redis源码】Redis Set命令详解](https://www.zeekling.cn/articles/2020/11/08/1604816679827.html) 
-    > <p>set命令用于将key-value设置到数据库。如果key已经设置，则set会用新值覆盖旧值，不管原value是何种类型，如果在设置时不指定EX或PX参数，set命令会清除原有超时时间。</p>
 
 
 
