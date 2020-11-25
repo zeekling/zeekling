@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-25 00:00:41`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-25 12:00:17`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
+    > <p>RDB快照有两种触发方式，其一为通过配置参数，例如在配置文件中写入如下配置：</p>
+    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">save</span> <span class="highlight-mi">60</span> <span class="highlight-mi">1000</span>
+    > </code></pre>
+    > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
+    > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
     > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
     > <p>目前主要包含两方面：基础知识和源码解读。</p>
@@ -35,8 +41,6 @@
     > <p>最近在学习Redis源码，主要是目前负责华为产品<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a>中Redis组件的相关事务，不得不学习Redis源码。本文主要讲述的是怎么通过vscode查看Redis的源码(Linux平台下面).</p>
 * 📝 [【leetCode】整数反转](https://www.zeekling.cn/articles/2020/11/18/1605713678816.html) 
     > <p>给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。</p>
-* 📝 [刷算法 - a+b问题](https://www.zeekling.cn/articles/2019/12/12/1576080027153.html) 
-    > <p>给出两个整数 a 和 b , 求他们的和。</p>
 
 
 
