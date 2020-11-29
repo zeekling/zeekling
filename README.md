@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-29 12:00:16`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-11-30 00:00:26`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,9 @@
 
 ### 最新
 
+* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
+    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
+    > <p>目前主要包含两方面：基础知识和源码解读。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
 * 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
@@ -22,9 +25,6 @@
     > </code></pre>
     > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
     > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
-* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
-    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
-    > <p>目前主要包含两方面：基础知识和源码解读。</p>
 * 📝 [【Redis源码】Redis 6 ACL源码详解](https://www.zeekling.cn/articles/2020/11/22/1606060178482.html) 
     > <p>本文主要是讲解Redis 6的ACL的实现原理。基本使用详见：<a href="/articles/2020/11/22/1606048977051.html" target="_blank">Redis 6.0新特性——ACLs</a>，以及<a href="https://www.zeekling.cn/articles/2020/09/25/1601041404734.html">Redis启动过程分析</a>。</p>
 * 📝 [Redis 6.0新特性——ACLs](https://www.zeekling.cn/articles/2020/11/22/1606048977051.html) 
