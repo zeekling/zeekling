@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-04 12:00:13`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-05 00:00:19`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
+    > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
     > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
     > <p>目前主要包含两方面：基础知识和源码解读。</p>
@@ -39,8 +41,6 @@
     > </ul>
 * 📝 [gitea 使用jenkins 自动ci ](https://www.zeekling.cn/articles/2020/09/13/1600002728592.html) 
     > <p>我目前使用的代码仓库是使用 <code>gitea</code>搭建而成的，详细参见<a href="https://git.zeekling.cn/" target="_blank">https://git.zeekling.cn</a>, 最近在看<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">redis源码</a>于是就想着加个自动ci的东西。</p>
-* 📝 [vscode 查看Redis源码](https://www.zeekling.cn/articles/2020/10/20/1603198382711.html) 
-    > <p>最近在学习Redis源码，主要是目前负责华为产品<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a>中Redis组件的相关事务，不得不学习Redis源码。本文主要讲述的是怎么通过vscode查看Redis的源码(Linux平台下面).</p>
 
 
 
