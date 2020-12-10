@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-10 12:00:12`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-11 00:00:31`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
+    > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
     > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
@@ -39,8 +41,6 @@
     > <li>内存的缓存部分占得比例比较大</li>
     > <li>磁盘变大了好多,但是本人安装的几个软件都不会占这么多磁盘</li>
     > </ul>
-* 📝 [gitea 使用jenkins 自动ci ](https://www.zeekling.cn/articles/2020/09/13/1600002728592.html) 
-    > <p>我目前使用的代码仓库是使用 <code>gitea</code>搭建而成的，详细参见<a href="https://git.zeekling.cn/" target="_blank">https://git.zeekling.cn</a>, 最近在看<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">redis源码</a>于是就想着加个自动ci的东西。</p>
 
 
 
