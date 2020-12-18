@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-18 12:00:18`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-19 00:00:18`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [我的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [Redis 6 客户端缓存](https://www.zeekling.cn/articles/2020/12/16/1608129353447.html) 
     > <p>客户端缓存是一种用于创建高性能服务的技术。它利用应用服务器中的可用内存，这些服务器通常是与数据库节点不同的计算机，以便将数据库信息的某些子集直接存储在应用程序端。</p>
 * 📝 [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
@@ -33,8 +35,6 @@
     > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
 * 📝 [【Redis源码】Redis 6 ACL源码详解](https://www.zeekling.cn/articles/2020/11/22/1606060178482.html) 
     > <p>本文主要是讲解Redis 6的ACL的实现原理。基本使用详见：<a href="/articles/2020/11/22/1606048977051.html" target="_blank">Redis 6.0新特性——ACLs</a>，以及<a href="https://www.zeekling.cn/articles/2020/09/25/1601041404734.html">Redis启动过程分析</a>。</p>
-* 📝 [Redis 6.0新特性——ACLs](https://www.zeekling.cn/articles/2020/11/22/1606048977051.html) 
-    > <p>Redis ACL是Access Control List（访问控制列表）的缩写，该功能允许根据可以执行的命令和可以访问的键来限制某些连接。它的工作方式是，在连接之后，要求客户端进行身份验证，以提供用户名和有效密码：如果身份验证阶段成功，则连接与给定用户关联，并且该用户具有限制。可以对Redis进行配置，以使新连接已过“默认”用户进行身份验证（这是默认配置），因此，配置默认用户具有的能力是，仅向连接提供特定功能子集的功能未明确认证。</p>
 
 
 
