@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-25 12:00:13`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2020-12-26 00:00:26`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
+    > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
+    > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
+    > <blockquote>
+    > <p>这是本人写总结的第二个年头：<a href="/articles/2019/12/29/1577607858730.html" target="_blank">2019年终总结</a></p>
+    > </blockquote>
 * 📝 [2020年计划](https://www.zeekling.cn/articles/2020/01/01/1577875457805.html) 
     > <p>转眼之间已经到了 2020 年，按照往年的经验来讲是需要做一个 2020 年的计划。希望自己的 2020 年，是一个值得回忆，有所收获的一年，而不是碌碌无为的一年。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
@@ -29,12 +35,6 @@
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
     > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
     > <p>目前主要包含两方面：基础知识和源码解读。</p>
-* 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
-    > <p>RDB快照有两种触发方式，其一为通过配置参数，例如在配置文件中写入如下配置：</p>
-    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">save</span> <span class="highlight-mi">60</span> <span class="highlight-mi">1000</span>
-    > </code></pre>
-    > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
-    > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
 
 
 
