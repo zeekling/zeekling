@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-04 12:00:12`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-05 00:00:22`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
+    > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
+    > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
+    > <blockquote>
+    > <p>这是本人写总结的第二个年头：<a href="/articles/2019/12/29/1577607858730.html" target="_blank">2019年终总结</a></p>
+    > </blockquote>
 * 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
     > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
     > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
@@ -38,8 +44,6 @@
     > <li>内存的缓存部分占得比例比较大</li>
     > <li>磁盘变大了好多,但是本人安装的几个软件都不会占这么多磁盘</li>
     > </ul>
-* 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
-    > <p>当Redis cluster集群数据所在磁盘的RAID卡坏掉了之后会发生什么？集群会不会进行故障迁移，以及怎么快速恢复。</p>
 
 
 
