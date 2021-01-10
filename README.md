@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-10 00:00:16`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-11 00:00:35`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,11 @@
 
 ### 最新
 
+* 📝 [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html) 
+    > <p>RESP3是RESP v2的更新版本，RESP v2是Redis中使用的协议，大约从版本2.0开始（1.2已经支持它，但是Redis 2.0是第一个只讨论这个协议的版本）。此协议的名称只是RESP3，而不是respv3或RESP3.0。</p>
+    > <p>该协议用于处理客户机和服务器之间的请求-响应通信，其中客户机执行某种请求，服务器用一些数据进行回复。该协议特别适合于数据库，因为它能够返回复杂的数据类型和相关的信息来扩充返回的数据（例如给定信息的流行度指数）。</p>
+    > <p>RESP3协议可以不对称地使用，就像在Redis中一样：客户端只能向服务器发送一个子集，而服务器可以返回可用的完整类型集。这是因为RESP设计用于发送非结构化命令，如 <code>SET mykey somevalue</code>或 <code>SADD myset a b c d</code>。此类命令可以表示为数组，其中每个参数都是数组元素，因此这是客户端需要发送到服务器的唯一类型。然而，愿意将RESP3用于其他目标的不同应用程序可能只允许以“全双工”方式使用协议，其中两端都可以使用可用的全套类型。</p>
+    > <p>不是RESP3的所有部分对客户端和服务器都是必需的。在Redis的具体案例中，RESP3描述了某些在将来有用的功能，这些功能最初可能不会实现。RESP3的其他可选部分只能在特定情况下由Redis实现，比如主数据库与其副本之间的链接，或者特定状态下的客户端连接。</p>
 * 📝 [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html) 
     > <p>由于本人目前是华为<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a> 中Redis组件的Owner，所以要对Redis进行深入的了解，这对于C语言水平不咋地的我来讲还是有点难度的，于是我决定先从Redis的启动开始看，了解其基本原理。</p>
 * 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
@@ -36,8 +41,6 @@
     > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
 * 📝 [人生第一次（出生）](https://www.zeekling.cn/articles/2020/03/22/1584880355664.html) 
     > <p>洞察人间凡事，体味人生百态。央视网系列人文纪录片《人生第一次》旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”：第一次上学、第一次上班、第一次走进军营，许多“第一次”串联起我们人生的重要节点，“初来乍到，请多关照”。</p>
-* 📝 [人生第一次（上学）](https://www.zeekling.cn/articles/2020/11/08/1604808358057.html) 
-    > <p>《人生第一次》是央视网联合上海广播电视台纪录片中心、腾讯视频出品的12集系列人文纪录片，本片撷取的人生断面，时间上贯穿于出生、上学、成家、立业、养老等人生中不同的阶段，空间上分布于医院、学校、军队、房产中介、村庄、工厂、老年大学等不同人生场景。本片旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”，以点带面、见微知著，表达中国人的情感、面临的挑战、坚持的价值观，折射中国当下的时代精神。</p>
 
 
 
