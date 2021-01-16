@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-15 12:00:21`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-16 12:00:12`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
+    > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
 * 📝 [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html) 
     > <p>RESP3是RESP v2的更新版本，RESP v2是Redis中使用的协议，大约从版本2.0开始（1.2已经支持它，但是Redis 2.0是第一个只讨论这个协议的版本）。此协议的名称只是RESP3，而不是respv3或RESP3.0。</p>
     > <p>该协议用于处理客户机和服务器之间的请求-响应通信，其中客户机执行某种请求，服务器用一些数据进行回复。该协议特别适合于数据库，因为它能够返回复杂的数据类型和相关的信息来扩充返回的数据（例如给定信息的流行度指数）。</p>
@@ -21,8 +23,6 @@
     > <p>不是RESP3的所有部分对客户端和服务器都是必需的。在Redis的具体案例中，RESP3描述了某些在将来有用的功能，这些功能最初可能不会实现。RESP3的其他可选部分只能在特定情况下由Redis实现，比如主数据库与其副本之间的链接，或者特定状态下的客户端连接。</p>
 * 📝 [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html) 
     > <p>由于本人目前是华为<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a> 中Redis组件的Owner，所以要对Redis进行深入的了解，这对于C语言水平不咋地的我来讲还是有点难度的，于是我决定先从Redis的启动开始看，了解其基本原理。</p>
-* 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
-    > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
 * 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
     > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
     > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
