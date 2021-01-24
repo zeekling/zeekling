@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-24 12:00:14`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-01-25 00:00:22`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,8 @@
 
 ### 最新
 
+* 📝 [纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
+    > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
 * 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
     > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
 * 📝 [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html) 
@@ -37,8 +39,6 @@
     > <p>Redis6.0.0稳定版出来了。这一次是从发布第一个候选版本到最终发布稳定版本之间的一个相对较短的周期。它花了大约四个月的时间，这不是一个小数目的时间，但与我们过去的记录相比，也不是很多。</p>
     > <p>主要的变化有：</p>
     > <p>SSL、ACLs、RESP3、客户端缓存、线程I/O、副本上的无盘复制、Redis benchmark中的集群支持和改进的Redis cli集群支持、Redis作为Redis的一个模块，以及Redis集群代理。</p>
-* 📝 [纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
-    > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
 * 📝 [人生第一次（出生）](https://www.zeekling.cn/articles/2020/03/22/1584880355664.html) 
     > <p>洞察人间凡事，体味人生百态。央视网系列人文纪录片《人生第一次》旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”：第一次上学、第一次上班、第一次走进军营，许多“第一次”串联起我们人生的重要节点，“初来乍到，请多关照”。</p>
 
