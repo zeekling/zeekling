@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-02-13 12:00:12`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-02-14 00:00:34`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
+    > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
+    > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
+    > <blockquote>
+    > <p>这是本人写总结的第二个年头：<a href="/articles/2019/12/29/1577607858730.html" target="_blank">2019年终总结</a></p>
+    > </blockquote>
 * 📝 [纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
     > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
 * 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
@@ -25,12 +31,6 @@
     > <p>不是RESP3的所有部分对客户端和服务器都是必需的。在Redis的具体案例中，RESP3描述了某些在将来有用的功能，这些功能最初可能不会实现。RESP3的其他可选部分只能在特定情况下由Redis实现，比如主数据库与其副本之间的链接，或者特定状态下的客户端连接。</p>
 * 📝 [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html) 
     > <p>由于本人目前是华为<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a> 中Redis组件的Owner，所以要对Redis进行深入的了解，这对于C语言水平不咋地的我来讲还是有点难度的，于是我决定先从Redis的启动开始看，了解其基本原理。</p>
-* 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
-    > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
-    > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
-    > <blockquote>
-    > <p>这是本人写总结的第二个年头：<a href="/articles/2019/12/29/1577607858730.html" target="_blank">2019年终总结</a></p>
-    > </blockquote>
 * 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
     > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
     > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
