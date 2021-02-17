@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-02-17 12:00:15`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-02-18 00:00:20`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,6 +14,12 @@
 
 ### 最新
 
+* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
+    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
+    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
+    > <p>闲来无事，写心中所想、所思。</p>
+* 📝 [2021年计划](https://www.zeekling.cn/articles/2021/02/17/1613545728619.html) 
+    > <p>2021 是新的一年，也是新的开始，对新的一年做好规划，希望2021不负我。</p>
 * 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
     > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
     > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
@@ -31,16 +37,10 @@
     > <p>不是RESP3的所有部分对客户端和服务器都是必需的。在Redis的具体案例中，RESP3描述了某些在将来有用的功能，这些功能最初可能不会实现。RESP3的其他可选部分只能在特定情况下由Redis实现，比如主数据库与其副本之间的链接，或者特定状态下的客户端连接。</p>
 * 📝 [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html) 
     > <p>由于本人目前是华为<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a> 中Redis组件的Owner，所以要对Redis进行深入的了解，这对于C语言水平不咋地的我来讲还是有点难度的，于是我决定先从Redis的启动开始看，了解其基本原理。</p>
-* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
-    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
-    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
-    > <p>闲来无事，写心中所想、所思。</p>
 * 📝 [Redis 6 新特性](https://www.zeekling.cn/articles/2020/11/01/1604242049779.html) 
     > <p>Redis6.0.0稳定版出来了。这一次是从发布第一个候选版本到最终发布稳定版本之间的一个相对较短的周期。它花了大约四个月的时间，这不是一个小数目的时间，但与我们过去的记录相比，也不是很多。</p>
     > <p>主要的变化有：</p>
     > <p>SSL、ACLs、RESP3、客户端缓存、线程I/O、副本上的无盘复制、Redis benchmark中的集群支持和改进的Redis cli集群支持、Redis作为Redis的一个模块，以及Redis集群代理。</p>
-* 📝 [人生第一次（出生）](https://www.zeekling.cn/articles/2020/03/22/1584880355664.html) 
-    > <p>洞察人间凡事，体味人生百态。央视网系列人文纪录片《人生第一次》旨在通过蹲守拍摄，观察不同人群在人生重要节点的“第一次”：第一次上学、第一次上班、第一次走进军营，许多“第一次”串联起我们人生的重要节点，“初来乍到，请多关照”。</p>
 
 
 
