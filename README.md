@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
 ### 我在[小令童鞋](https://www.zeekling.cn)的近期动态
 
-⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-03-21 12:00:20`
+⭐️ Star [个人主页](https://github.com/zeekling/zeekling) 后会自动更新，最近更新时间：`2021-03-22 00:00:25`
 
 <p align="center"><img alt="ZEEKLING" src="https://img.zeekling.cn/images/2020/02/23/logo.th.png"></p><h2 align="center">ZEEKLING
 </h2>
@@ -14,31 +14,26 @@
 
 ### 最新
 
-* 📝 [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html) 
-    > <p>RESP3是RESP v2的更新版本，RESP v2是Redis中使用的协议，大约从版本2.0开始（1.2已经支持它，但是Redis 2.0是第一个只讨论这个协议的版本）。此协议的名称只是RESP3，而不是respv3或RESP3.0。</p>
-    > <p>该协议用于处理客户机和服务器之间的请求-响应通信，其中客户机执行某种请求，服务器用一些数据进行回复。该协议特别适合于数据库，因为它能够返回复杂的数据类型和相关的信息来扩充返回的数据（例如给定信息的流行度指数）。</p>
-    > <p>RESP3协议可以不对称地使用，就像在Redis中一样：客户端只能向服务器发送一个子集，而服务器可以返回可用的完整类型集。这是因为RESP设计用于发送非结构化命令，如 <code>SET mykey somevalue</code>或 <code>SADD myset a b c d</code>。此类命令可以表示为数组，其中每个参数都是数组元素，因此这是客户端需要发送到服务器的唯一类型。然而，愿意将RESP3用于其他目标的不同应用程序可能只允许以“全双工”方式使用协议，其中两端都可以使用可用的全套类型。</p>
-    > <p>不是RESP3的所有部分对客户端和服务器都是必需的。在Redis的具体案例中，RESP3描述了某些在将来有用的功能，这些功能最初可能不会实现。RESP3的其他可选部分只能在特定情况下由Redis实现，比如主数据库与其副本之间的链接，或者特定状态下的客户端连接。</p>
-* 📝 [Redis 6 客户端缓存](https://www.zeekling.cn/articles/2020/12/16/1608129353447.html) 
-    > <p>客户端缓存是一种用于创建高性能服务的技术。它利用应用服务器中的可用内存，这些服务器通常是与数据库节点不同的计算机，以便将数据库信息的某些子集直接存储在应用程序端。</p>
-* 📝 [清风明月](https://www.zeekling.cn/articles/2020/02/13/1581574004719.html) 
-    > <p>《南史·谢惠传》：“入吾室者，但有清风；对吾饮者，惟当明月。</p>
-    > <p>明·沉采《千金记·遇仙》：“恋功名水上鸥，俏芒鞋尘内走，怎如明月清风随地有，到头来消受。</p>
-    > <p>闲来无事，写心中所想、所思。</p>
-* 📝 [2021年计划](https://www.zeekling.cn/articles/2021/02/17/1613545728619.html) 
-    > <p>2021 是新的一年，也是新的开始，对新的一年做好规划，希望2021不负我。</p>
-* 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
-    > <p>2020年注定就不会是平凡的一年，新冠病毒肆虐恍如昨日，好在当下国内疫情已经大有好转。乘着三月底疫情刚缓，疫情对各公司的影响还没有显现出来，在西安找了一份还算不错的工作，干的还算比较顺心。就是加班比较严重。</p>
-    > <p>在到新公司虽然加班比较严重，但还是抽出了部分时间来学习，总体来将还是不错的。</p>
-    > <blockquote>
-    > <p>这是本人写总结的第二个年头：<a href="/articles/2019/12/29/1577607858730.html" target="_blank">2019年终总结</a></p>
-    > </blockquote>
-* 📝 [纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
-    > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
-* 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
-    > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
-* 📝 [【Redis源码】Redis 启动过程分析](https://www.zeekling.cn/articles/2020/09/25/1601041404734.html) 
-    > <p>由于本人目前是华为<a href="https://support.huawei.com/enterprise/zh/cloud-computing/fusioninsight-hd-pid-21110924" target="_blank">FusionInsight HD</a> 中Redis组件的Owner，所以要对Redis进行深入的了解，这对于C语言水平不咋地的我来讲还是有点难度的，于是我决定先从Redis的启动开始看，了解其基本原理。</p>
+* 📝 [决策树详解](https://www.zeekling.cn/articles/2019/07/20/1563605756560.html) 
+    > <p>和支持向量机一样， 决策树是一种多功能机器学习算法， 即可以执行分类任务也可以执行回归任务， 甚至包括多输出（multioutput）任务.</p>
+* 📝 [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html) 
+    > <p>Dropout是用于防止过拟合和提供一种有效近似联结指数级不同神经网络结构的方法,能够有效的缓解深度网络的过拟合现象.</p>
+* 📝 [frp 内网穿透](https://www.zeekling.cn/articles/2019/08/11/1565501357107.html) 
+    > <p>本人使用了树莓派作为了家里一直吃灰的服务器，想让树莓派上面的东西外网可以访问(博客也是部署在树莓派上面的),所以就有了 frp 内网穿透这一说法。</p>
+* 📝 [机器学习知识点总结](https://www.zeekling.cn/articles/2019/08/14/1565788128215.html) 
+    > <p>主要是为了列个机器学习相关的提纲,方便对已经学过的知识进行整理,相同的知识点,每次或者每个阶段都会有不同的想法,而我需要做的就是把自己的想法写下来.</p>
+* 📝 [Auto-Encoding Variational Bayes 笔记](https://www.zeekling.cn/articles/2019/08/17/1566030664360.html) 
+    > <p>Auto-Encoding Variational Bayes论文笔记</p>
+* 📝 [VARIATIONAL RECURRENT AUTO-ENCODERS 详解](https://www.zeekling.cn/articles/2019/08/18/1566099716666.html) 
+    > <p>VARIATIONAL RECURRENT AUTO-ENCODERS 笔记</p>
+* 📝 [半监督学习](https://www.zeekling.cn/articles/2019/08/31/1567233072756.html) 
+    > <p>在实际生活中，常常会出现一部分样本有标记和较多样本无标记的情形，例如：做网页推荐时需要让用户标记出感兴趣的网页，但是少有用户愿意花时间来提供标记。若直接丢弃掉无标记样本集，使用传统的监督学习方法，常常会由于训练样本的不充足，使得其刻画总体分布的能力减弱，从而影响了学习器泛化性能。那如何利用未标记的样本数据呢？</p>
+* 📝 [生成模型和判别模型](https://www.zeekling.cn/articles/2019/09/05/1567694703616.html) 
+    > <p>监督学习方法可以分为生成方法和判别方法,所学到的模型分别为生成模型和判别模型.</p>
+* 📝 [K近邻算法(KNN)详解](https://www.zeekling.cn/articles/2019/09/15/1568531141390.html) 
+    > <p>K近邻算法，即是给定一个训练数据集，对新的输入实例，在训练数据集中找到与该实例<strong>最邻近</strong>的K个实例，<strong>这K个实例的多数属于某个类</strong>，就把该输入实例分类到这个类中.</p>
+* 📝 [深入理解L1,L2正则化](https://www.zeekling.cn/articles/2019/09/22/1569160001367.html) 
+    > <p><strong>正则化(Regularization)</strong> 是机器学习中对原始损失函数引入额外信息，以便防止过拟合和提高模型泛化性能的一类方法的统称。正则化是在经验风险上面加了一个正则化项或者惩罚项,正则化函数一般是模型法则度的单调增函数,模型越负责,正则化值就越大.</p>
 
 
 
