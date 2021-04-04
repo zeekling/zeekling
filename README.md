@@ -13,6 +13,11 @@
 
 ### 最新
 
+* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
+    > <p></p><ol>
+    > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn">https://www.zeekling.cn</a> ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. bolo-solo Java ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://demo.stackoverflow.wiki" target="_blank">https://demo.stackoverflow.wiki</a> 🍍菠萝博客：专为程序员设计的Java博客系统 | 极简安装 | 🎸基于Solo | 精致主题 | 动态邮件提醒 | 自定义图床 | 离线博客 | 本地登录 | 免登录评论 | 文章同步/备份到黑客派 | 📦 WAR包、Tomcat、Docker、JAR部署支持 | 🔖....</li>
+    > </ol>
+    > <p></p>
 * 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
     > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
 * 📝 [理解Redis的内存](https://www.zeekling.cn/articles/2020/07/04/1593860561539.html) 
@@ -45,15 +50,6 @@
 * 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
     > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
     > <p>目前主要包含两方面：基础知识和源码解读。</p>
-* 📝 [【Redis源码】append命令](https://www.zeekling.cn/articles/2020/11/08/1604838367145.html) 
-    > <p>数据库已经有了key，它的值为value。当我们发现value值需要追加字符串却又不想直接用set命令覆盖原值时，可以用append命令来实现。</p>
-    > <p>命令格式：</p>
-    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">append</span> <span class="highlight-n">key</span> <span class="highlight-n">value</span>
-    > </code></pre>
-    > <ul>
-    > <li>说明： 将value追加到原值的末尾，如果key不存在，此命令等同<br>
-    > 于set key value命令。</li>
-    > </ul>
 
 
 
