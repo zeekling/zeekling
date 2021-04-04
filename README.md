@@ -13,13 +13,13 @@
 
 ### 最新
 
-* 📝 [我的书单](https://www.zeekling.cn/book.html) 
-    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
     > <p></p><ol>
     > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn">https://www.zeekling.cn</a> ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. bolo-solo Java ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://demo.stackoverflow.wiki" target="_blank">https://demo.stackoverflow.wiki</a> 🍍菠萝博客：专为程序员设计的Java博客系统 | 极简安装 | 🎸基于Solo | 精致主题 | 动态邮件提醒 | 自定义图床 | 离线博客 | 本地登录 | 免登录评论 | 文章同步/备份到黑客派 | 📦 WAR包、Tomcat、Docker、JAR部署支持 | 🔖....</li>
     > </ol>
     > <p></p>
+* 📝 [我的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
     > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
 * 📝 [理解Redis的内存](https://www.zeekling.cn/articles/2020/07/04/1593860561539.html) 
