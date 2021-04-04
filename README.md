@@ -13,9 +13,11 @@
 
 ### 最新
 
+* 📝 [我的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
     > <p></p><ol>
-    > <li>WebStack-Guns Java ⭐️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn">https://www.zeekling.cn</a> ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. bolo-solo Java ⭐️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://demo.stackoverflow.wiki" target="_blank">https://demo.stackoverflow.wiki</a> 🍍菠萝博客：专为程序员设计的Java博客系统 | 极简安装 | 🎸基于Solo | 精致主题 | 动态邮件提醒 | 自定义图床 | 离线博客 | 本地登录 | 免登录评论 | 文章同步/备份到黑客派 | 📦 WAR包、Tomcat、Docker、JAR部署支持 | 🔖....</li>
+    > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn">https://www.zeekling.cn</a> ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. bolo-solo Java ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://demo.stackoverflow.wiki" target="_blank">https://demo.stackoverflow.wiki</a> 🍍菠萝博客：专为程序员设计的Java博客系统 | 极简安装 | 🎸基于Solo | 精致主题 | 动态邮件提醒 | 自定义图床 | 离线博客 | 本地登录 | 免登录评论 | 文章同步/备份到黑客派 | 📦 WAR包、Tomcat、Docker、JAR部署支持 | 🔖....</li>
     > </ol>
     > <p></p>
 * 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
@@ -36,20 +38,17 @@
 * 📝 [【Redis源码】setbit命令](https://www.zeekling.cn/articles/2020/11/14/1605354792615.html) 
     > <p>setbit命令对key所存储的字符串值，设置指定偏移量上的比特位。</p>
     > <p><strong>格式：</strong></p>
-    > <pre><code class="language-bash">setbit key offset value
+    > <pre><code class="language-bash highlight-chroma">setbit key offset value
     > </code></pre>
     > <p>返回值： 返回指定偏移量原来存储的位。</p>
 * 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
     > <p>RDB快照有两种触发方式，其一为通过配置参数，例如在配置文件中写入如下配置：</p>
-    > <pre><code class="language-cpp">save 60 1000
+    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">save</span> <span class="highlight-mi">60</span> <span class="highlight-mi">1000</span>
     > </code></pre>
     > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
     > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
 * 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
     > <p>当Redis cluster集群数据所在磁盘的RAID卡坏掉了之后会发生什么？集群会不会进行故障迁移，以及怎么快速恢复。</p>
-* 📝 [Redis 学习知识点总结](https://www.zeekling.cn/articles/2020/09/01/1598892381872.html) 
-    > <p>本文的主要目的就是对之前看过的Redis相关的文章做一个简单的提纲，方便以后汇总复习。</p>
-    > <p>目前主要包含两方面：基础知识和源码解读。</p>
 
 
 
