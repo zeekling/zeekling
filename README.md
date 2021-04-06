@@ -13,10 +13,14 @@
 
 ### 最新
 
-* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
-    > <p></p><ol>
-    > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn">https://www.zeekling.cn</a> ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. bolo-solo Java ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://demo.stackoverflow.wiki" target="_blank">https://demo.stackoverflow.wiki</a> 🍍菠萝博客：专为程序员设计的Java博客系统 | 极简安装 | 🎸基于Solo | 精致主题 | 动态邮件提醒 | 自定义图床 | 离线博客 | 本地登录 | 免登录评论 | 文章同步/备份到黑客派 | 📦 WAR包、Tomcat、Docker、JAR部署支持 | 🔖....</li>
-    > </ol>
+* 📝 [博客从solo迁移bolo](https://www.zeekling.cn/articles/2019/09/07/1587898561235.html) 
+    > <p>solo 博客使用了大概有一年的时间，总体感觉上还不错，但是从在一些其他方面的问题，就是和<a href="https://hacpai.com/" target="_blank">黑客派</a> 绑定的太死了，有时候会因为社区的原因导致博客的访问量不准确，以及同一ip访问次数过频繁的时候会导致博客访问不了。</p>
+* 📝 [Gogs迁移Gitea](https://www.zeekling.cn/articles/2020/02/23/1582470250287.html) 
+    > <p></p><ul>
+    > <li>Gogs 更新功能比 Gitea 少很多，虽然不一定用得到。</li>
+    > <li>Gitea 更新快，一些 bug 解决的快一点(虽然我没发现什么 bug)</li>
+    > <li>可能是因为我 Gogs 用的时间久了，出现了视觉疲劳？</li>
+    > </ul>
     > <p></p>
 * 📝 [我的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
@@ -47,8 +51,6 @@
     > </code></pre>
     > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
     > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
-* 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
-    > <p>当Redis cluster集群数据所在磁盘的RAID卡坏掉了之后会发生什么？集群会不会进行故障迁移，以及怎么快速恢复。</p>
 
 
 
