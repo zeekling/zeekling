@@ -13,6 +13,11 @@
 
 ### 最新
 
+* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
+    > <p></p><ol>
+    > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠https://www.zeekling.cn:8080 ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. redis_study C ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">https://git.zeekling.cn/zeekling/redis</a> Redis是一个内存中的数据库，它保存在磁盘上。数据模型是键值，但支持多种不同类型的值：字符串、列表、集合、排序集、哈希、流、HyperLogLogs、位图。  5. zeekling  ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠h....</li>
+    > </ol>
+    > <p></p>
 * 📝 [博客从solo迁移bolo](https://www.zeekling.cn/articles/2019/09/07/1587898561235.html) 
     > <p>solo 博客使用了大概有一年的时间，总体感觉上还不错，但是从在一些其他方面的问题，就是和<a href="https://hacpai.com/" target="_blank">黑客派</a> 绑定的太死了，有时候会因为社区的原因导致博客的访问量不准确，以及同一ip访问次数过频繁的时候会导致博客访问不了。</p>
 * 📝 [Gogs迁移Gitea](https://www.zeekling.cn/articles/2020/02/23/1582470250287.html) 
@@ -45,12 +50,6 @@
     > <pre><code class="language-bash highlight-chroma">setbit key offset value
     > </code></pre>
     > <p>返回值： 返回指定偏移量原来存储的位。</p>
-* 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
-    > <p>RDB快照有两种触发方式，其一为通过配置参数，例如在配置文件中写入如下配置：</p>
-    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">save</span> <span class="highlight-mi">60</span> <span class="highlight-mi">1000</span>
-    > </code></pre>
-    > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
-    > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
 
 
 
