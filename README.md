@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
+    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [2020年纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
     > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
 * 📝 [关于Redis 6 ACL特性的思考](https://www.zeekling.cn/articles/2021/04/19/1618845188228.html) 
@@ -39,8 +41,6 @@
     > <li>可能是因为我 Gogs 用的时间久了，出现了视觉疲劳？</li>
     > </ul>
     > <p></p>
-* 📝 [我的书单](https://www.zeekling.cn/book.html) 
-    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 
 
 
