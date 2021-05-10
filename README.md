@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [C语言命令行参数和java的区别](https://www.zeekling.cn/articles/2021/05/10/1620604379807.html) 
+    > <p>主要区别在与args[0]的值，在C语言当中args[0]是C语言编译出的当前二进制的名称，而在Java当中却是第一个参数的值。比较容易混淆。</p>
 * 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
     > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [2020年纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
@@ -34,13 +36,6 @@
     > <p></p>
 * 📝 [博客从solo迁移bolo](https://www.zeekling.cn/articles/2019/09/07/1587898561235.html) 
     > <p>solo 博客使用了大概有一年的时间，总体感觉上还不错，但是从在一些其他方面的问题，就是和<a href="https://hacpai.com/" target="_blank">黑客派</a> 绑定的太死了，有时候会因为社区的原因导致博客的访问量不准确，以及同一ip访问次数过频繁的时候会导致博客访问不了。</p>
-* 📝 [Gogs迁移Gitea](https://www.zeekling.cn/articles/2020/02/23/1582470250287.html) 
-    > <p></p><ul>
-    > <li>Gogs 更新功能比 Gitea 少很多，虽然不一定用得到。</li>
-    > <li>Gitea 更新快，一些 bug 解决的快一点(虽然我没发现什么 bug)</li>
-    > <li>可能是因为我 Gogs 用的时间久了，出现了视觉疲劳？</li>
-    > </ul>
-    > <p></p>
 
 
 
