@@ -15,10 +15,12 @@
 
 * 📝 [C语言命令行参数和java的区别](https://www.zeekling.cn/articles/2021/05/10/1620604379807.html) 
     > <p>主要区别在与args[0]的值，在C语言当中args[0]是C语言编译出的当前二进制的名称，而在Java当中却是第一个参数的值。比较容易混淆。</p>
-* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
-    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
+* 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [2020年纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
     > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
+* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
+    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [关于Redis 6 ACL特性的思考](https://www.zeekling.cn/articles/2021/04/19/1618845188228.html) 
     > <p>在使用的过程中发现Redis ACL 只是针对单个Redis实例而言的，但是在生产环境我们一定用的是哨兵模式或者集群模式，那么就存在Redis集群中实例ACL权限信息的同步问题。</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
@@ -34,8 +36,6 @@
     > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠https://www.zeekling.cn:8080 ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. redis_study C ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">https://git.zeekling.cn/zeekling/redis</a> Redis是一个内存中的数据库，它保存在磁盘上。数据模型是键值，但支持多种不同类型的值：字符串、列表、集合、排序集、哈希、流、HyperLogLogs、位图。  5. zeekling  ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠h....</li>
     > </ol>
     > <p></p>
-* 📝 [博客从solo迁移bolo](https://www.zeekling.cn/articles/2019/09/07/1587898561235.html) 
-    > <p>solo 博客使用了大概有一年的时间，总体感觉上还不错，但是从在一些其他方面的问题，就是和<a href="https://hacpai.com/" target="_blank">黑客派</a> 绑定的太死了，有时候会因为社区的原因导致博客的访问量不准确，以及同一ip访问次数过频繁的时候会导致博客访问不了。</p>
 
 
 
