@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
+    > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [C语言命令行参数和java的区别](https://www.zeekling.cn/articles/2021/05/10/1620604379807.html) 
@@ -31,11 +33,6 @@
     > <p>偶然间注意到实用功能&#62;日志浏览&#62;JVM空闲内存太少了，于是就看了下bolo程序的内存回收情况，发现ygc执行次数太多了，于是就有了改造dockerfile的想法。</p>
 * 📝 [Java 面试知识整理以及汇总](https://www.zeekling.cn/articles/2020/01/02/1577973856241.html) 
     > <p>Java 基础知识比较多，每次使用的时候都是网上搜搜，有时候并不全面，所以打算自己整理下，方便以后查看。</p>
-* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
-    > <p></p><ol>
-    > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠https://www.zeekling.cn:8080 ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. redis_study C ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">https://git.zeekling.cn/zeekling/redis</a> Redis是一个内存中的数据库，它保存在磁盘上。数据模型是键值，但支持多种不同类型的值：字符串、列表、集合、排序集、哈希、流、HyperLogLogs、位图。  5. zeekling  ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠h....</li>
-    > </ol>
-    > <p></p>
 
 
 
