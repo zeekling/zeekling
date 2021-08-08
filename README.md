@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Redis 6.0新特性----TLS 通道加密](https://www.zeekling.cn/articles/2021/08/01/1627817134014.html) 
+    > <p>Redis 6实现了通道加密，提高了redis的安全性。Redis作为缓存数据库，里面很有可能缓存重要的敏感信息，所以支持tls通道加密还是很有必要的，当然敏感信息还是建议加密保存。</p>
 * 📝 [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
     > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
@@ -31,8 +33,6 @@
     > <p><a href="https://www.zeekling.cn/articles/2020/01/18/1579326364846.html">JVM 内存详解</a> 已经详细介绍了 JVM 内存的结构，本文主要讲讲 Java 对象到底是什么样子的，方便我们了解 Java 对象。</p>
 * 📝 [bolo 编译镜像添加jvm参数](https://www.zeekling.cn/articles/2020/08/25/1598324985257.html) 
     > <p>偶然间注意到实用功能&#62;日志浏览&#62;JVM空闲内存太少了，于是就看了下bolo程序的内存回收情况，发现ygc执行次数太多了，于是就有了改造dockerfile的想法。</p>
-* 📝 [Java 面试知识整理以及汇总](https://www.zeekling.cn/articles/2020/01/02/1577973856241.html) 
-    > <p>Java 基础知识比较多，每次使用的时候都是网上搜搜，有时候并不全面，所以打算自己整理下，方便以后查看。</p>
 
 
 
