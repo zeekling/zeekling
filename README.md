@@ -13,6 +13,16 @@
 
 ### 最新
 
+* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
+    > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
+* 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
+    > <p>RDB快照有两种触发方式，其一为通过配置参数，例如在配置文件中写入如下配置：</p>
+    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">save</span> <span class="highlight-mi">60</span> <span class="highlight-mi">1000</span>
+    > </code></pre>
+    > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
+    > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
+* 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
+    > <p>最近可能是闲的蛋疼，所以打算在自己博客上面接入广告。</p>
 * 📝 [Redis 6.0新特性----TLS 通道加密](https://www.zeekling.cn/articles/2021/08/01/1627817134014.html) 
     > <p>Redis 6实现了通道加密，提高了redis的安全性。Redis作为缓存数据库，里面很有可能缓存重要的敏感信息，所以支持tls通道加密还是很有必要的，当然敏感信息还是建议加密保存。</p>
 * 📝 [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
@@ -27,12 +37,6 @@
     > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [关于Redis 6 ACL特性的思考](https://www.zeekling.cn/articles/2021/04/19/1618845188228.html) 
     > <p>在使用的过程中发现Redis ACL 只是针对单个Redis实例而言的，但是在生产环境我们一定用的是哨兵模式或者集群模式，那么就存在Redis集群中实例ACL权限信息的同步问题。</p>
-* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
-    > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
-* 📝 [Java 对象详解(从JVM角度)](https://www.zeekling.cn/articles/2020/01/18/1579344932298.html) 
-    > <p><a href="https://www.zeekling.cn/articles/2020/01/18/1579326364846.html">JVM 内存详解</a> 已经详细介绍了 JVM 内存的结构，本文主要讲讲 Java 对象到底是什么样子的，方便我们了解 Java 对象。</p>
-* 📝 [bolo 编译镜像添加jvm参数](https://www.zeekling.cn/articles/2020/08/25/1598324985257.html) 
-    > <p>偶然间注意到实用功能&#62;日志浏览&#62;JVM空闲内存太少了，于是就看了下bolo程序的内存回收情况，发现ygc执行次数太多了，于是就有了改造dockerfile的想法。</p>
 
 
 
