@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
+    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
     > <p></p><ol>
     > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠https://www.zeekling.cn:8080 ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. redis_study C ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">https://git.zeekling.cn/zeekling/redis</a> Redis是一个内存中的数据库，它保存在磁盘上。数据模型是键值，但支持多种不同类型的值：字符串、列表、集合、排序集、哈希、流、HyperLogLogs、位图。  5. test_c C ⭐️️1&#160;&#160;🖖0 C语言简单测试学习样例  6.....</li>
@@ -32,8 +34,6 @@
     > <p>最近可能是闲的蛋疼，所以打算在自己博客上面接入广告。</p>
 * 📝 [Redis 6.0新特性----TLS 通道加密](https://www.zeekling.cn/articles/2021/08/01/1627817134014.html) 
     > <p>Redis 6实现了通道加密，提高了redis的安全性。Redis作为缓存数据库，里面很有可能缓存重要的敏感信息，所以支持tls通道加密还是很有必要的，当然敏感信息还是建议加密保存。</p>
-* 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
-    > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [C语言命令行参数和java的区别](https://www.zeekling.cn/articles/2021/05/10/1620604379807.html) 
     > <p>主要区别在与args[0]的值，在C语言当中args[0]是C语言编译出的当前二进制的名称，而在Java当中却是第一个参数的值。比较容易混淆。</p>
 * 📝 [2020年纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
