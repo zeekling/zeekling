@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
+    > <p>Redis基础知识总结思维导图，系统的学习Redis。</p>
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
@@ -38,8 +40,6 @@
     > <p>主要区别在与args[0]的值，在C语言当中args[0]是C语言编译出的当前二进制的名称，而在Java当中却是第一个参数的值。比较容易混淆。</p>
 * 📝 [2020年纪录片推荐](https://www.zeekling.cn/articles/2020/03/22/1584873973456.html) 
     > <p>最近一直再刷纪录片，索性就把好看的纪录片记录下来。</p>
-* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
-    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 
 
 
