@@ -14,7 +14,7 @@
 ### 最新
 
 * 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
-    > <p>Redis基础知识总结思维导图，系统的学习Redis。</p>
+    > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
