@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
+    > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
     > <p>最近可能是闲的蛋疼，所以打算在自己博客上面接入广告。</p>
 * 📝 [kali rolling linux 安装BCM43142网卡驱动](https://www.zeekling.cn/articles/2020/09/26/1601091635148.html) 
@@ -33,8 +35,6 @@
     > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠https://www.zeekling.cn:8080 ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. redis_study C ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">https://git.zeekling.cn/zeekling/redis</a> Redis是一个内存中的数据库，它保存在磁盘上。数据模型是键值，但支持多种不同类型的值：字符串、列表、集合、排序集、哈希、流、HyperLogLogs、位图。  5. test_c C ⭐️️1&#160;&#160;🖖0 C语言简单测试学习样例  6.....</li>
     > </ol>
     > <p></p>
-* 📝 [Git 命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
-    > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
 * 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
