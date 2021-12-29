@@ -13,6 +13,12 @@
 
 ### 最新
 
+* 📝 [如何正确执行Jedis单元测试](https://www.zeekling.cn/articles/2021/12/29/1640785618937.html) 
+    > <p>引用官方的介绍：</p>
+    > <blockquote>
+    > <p>Jedis is a Java client for <a href="https://github.com/redis/redis" title="Redis" target="_blank">Redis</a> designed for performance and ease of use.</p>
+    > </blockquote>
+    > <p>本文主要讲如何在修改完Jedis代码之后完成单元测试。</p>
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
     > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
@@ -43,8 +49,6 @@
     > </code></pre>
     > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
     > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
-* 📝 [Redis 6.0新特性----TLS 通道加密](https://www.zeekling.cn/articles/2021/08/01/1627817134014.html) 
-    > <p>Redis 6实现了通道加密，提高了redis的安全性。Redis作为缓存数据库，里面很有可能缓存重要的敏感信息，所以支持tls通道加密还是很有必要的，当然敏感信息还是建议加密保存。</p>
 
 
 
