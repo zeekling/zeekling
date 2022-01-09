@@ -15,6 +15,8 @@
 
 * 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
     > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
+* 📝 [Redis实现分布式锁](https://www.zeekling.cn/articles/2022/01/09/1641722558007.html) 
+    > <p>Redis被经常用来实现分布式锁，本文主要讲述redis如何实现一个分布式锁的demo。</p>
 * 📝 [如何正确执行Jedis单元测试](https://www.zeekling.cn/articles/2021/12/29/1640785618937.html) 
     > <p>引用官方的介绍：</p>
     > <blockquote>
@@ -43,12 +45,6 @@
     > <p></p>
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
     > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
-* 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
-    > <p>RDB快照有两种触发方式，其一为通过配置参数，例如在配置文件中写入如下配置：</p>
-    > <pre><code class="language-cpp highlight-chroma"><span class="highlight-n">save</span> <span class="highlight-mi">60</span> <span class="highlight-mi">1000</span>
-    > </code></pre>
-    > <p>则在60秒内如果有1000个key发生变化，就会触发一次RDB快照的执行。</p>
-    > <p>其二是通过在客户端执行bgsave命令显式触发一次RDB快照的执行。</p>
 
 
 
