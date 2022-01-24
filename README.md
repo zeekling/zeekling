@@ -15,6 +15,15 @@
 
 * 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
     > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
+    > <p>主要包括：</p>
+    > <ul>
+    > <li>基本数据和应用场景</li>
+    > <li>常见问题分析</li>
+    > <li>性能优化</li>
+    > <li>持久化</li>
+    > <li>集群模式</li>
+    > <li>子模块</li>
+    > </ul>
 * 📝 [Redis实现分布式锁](https://www.zeekling.cn/articles/2022/01/09/1641722558007.html) 
     > <p>Redis被经常用来实现分布式锁，本文主要讲述redis如何实现一个分布式锁的demo。</p>
 * 📝 [如何正确执行Jedis单元测试](https://www.zeekling.cn/articles/2021/12/29/1640785618937.html) 
