@@ -13,6 +13,10 @@
 
 ### 最新
 
+* 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
+    > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
+* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
+    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
     > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
     > <p>主要包括：</p>
@@ -47,13 +51,6 @@
     > <p>2、高可用：Redis集群模式中，每个主实例都会存在至少一个被实例，能够在主实例故障之后，顶替主实例工作。</p>
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
     > <p>本页主要用来记录自己已经读过的书或者是正在读的书，里面的这些书都是个人觉得值得花一点时间去读的书，如果感兴趣的话可以交流下。</p>
-* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
-    > <p></p><ol>
-    > <li>WebStack-Guns Java ⭐️️2&#160;&#160;🖖0 一个开源的网址导航网站项目，后台基于Guns和Springboot  2. bolo-blog  ⭐️️1&#160;&#160;🖖0&#160;&#160;🏠https://www.zeekling.cn:8080 ✍️ 小令童鞋 - 梅干菜你个小酥饼哦。  3. bolo-fantastic FreeMarker ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://www.zeekling.cn/">https://www.zeekling.cn/</a> 迁移到bolo 博客，保存自己自定义的皮肤部分。  4. redis_study C ⭐️️1&#160;&#160;🖖1&#160;&#160;🏠<a href="https://git.zeekling.cn/zeekling/redis" target="_blank">https://git.zeekling.cn/zeekling/redis</a> Redis是一个内存中的数据库，它保存在磁盘上。数据模型是键值，但支持多种不同类型的值：字符串、列表、集合、排序集、哈希、流、HyperLogLogs、位图。  5. test_c C ⭐️️1&#160;&#160;🖖0 C语言简单测试学习样例  6.....</li>
-    > </ol>
-    > <p></p>
-* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
-    > <p>自己搭建博客的原因是现有的博客系统不满足我的要求，简单来说就是看着现有的博客系统不顺眼，现在博客主要内容就是自己平时看的书以及各种想法总结等等。还有就是希望博客上面记载的东西能够帮助到别人。</p>
 
 
 
