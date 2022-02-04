@@ -13,7 +13,7 @@
 
 ### 最新
 
-* 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
+* 📝 [Redis知识思维导图总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
     > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
     > <p>主要包括：</p>
     > <ul>
