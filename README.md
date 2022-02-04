@@ -13,10 +13,6 @@
 
 ### 最新
 
-* 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
-    > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
-* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
-    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [Redis基础知识总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
     > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
     > <p>主要包括：</p>
@@ -28,6 +24,10 @@
     > <li>集群模式</li>
     > <li>子模块</li>
     > </ul>
+* 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
+    > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
+* 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
+    > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [Redis实现分布式锁](https://www.zeekling.cn/articles/2022/01/09/1641722558007.html) 
     > <p>Redis被经常用来实现分布式锁，本文主要讲述redis如何实现一个分布式锁的demo。</p>
 * 📝 [如何正确执行Jedis单元测试](https://www.zeekling.cn/articles/2021/12/29/1640785618937.html) 
