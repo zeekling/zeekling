@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
+    > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [Redis知识思维导图总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
     > <p>Redis基础知识总结思维导图，系统的学习Redis。不定时更新。</p>
     > <p>主要包括：</p>
@@ -36,8 +38,6 @@
     > <p>Jedis is a Java client for <a href="https://github.com/redis/redis" title="Redis" target="_blank">Redis</a> designed for performance and ease of use.</p>
     > </blockquote>
     > <p>本文主要讲如何在修改完Jedis代码之后完成单元测试。</p>
-* 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
-    > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
     > <p>最近可能是闲的蛋疼，所以打算在自己博客上面接入广告。</p>
 * 📝 [kali rolling linux 安装BCM43142网卡驱动](https://www.zeekling.cn/articles/2020/09/26/1601091635148.html) 
