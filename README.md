@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Linux sogou输入法显示简体输入却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
+    > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
     > <p>主要记录自己平时使用的 Git 命令，方便记忆和查找..</p>
 * 📝 [Redis知识思维导图总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
@@ -26,8 +28,6 @@
     > <li>集群模式</li>
     > <li>子模块</li>
     > </ul>
-* 📝 [Linux sogou输入法显示简体，输入之后却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
-    > <p>最新linux电脑搜狗输入法老是在输入的时候显示中文简体，但是输入到文件，或者浏览器里面就变成了繁体。很是让人头疼，网上搜了下也没人讲这种事。</p>
 * 📝 [idea卡顿且报错：UI was frozen for xxxxx ms问题解决](https://www.zeekling.cn/articles/2021/04/30/1619715915118.html) 
     > <p>idea 启动并且点击某个菜单之后一点反应也没有，点击关闭也关闭不掉，查看日志报错提示UI was frozen for 12256ms。</p>
 * 📝 [Redis实现分布式锁](https://www.zeekling.cn/articles/2022/01/09/1641722558007.html) 
