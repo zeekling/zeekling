@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
+    > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
 * 📝 [Redis集群主备缓存区满了导致主备频繁倒换](https://www.zeekling.cn/articles/2022/02/27/1645957902937.html) 
     > <p>问题现象：Redis 频繁进行主备倒换，通过查看主实例的日志：redis.log发现下面报错：</p>
     > <pre><code class="language-bash highlight-chroma">Client <span class="highlight-nv">id</span><span class="highlight-o">=</span><span class="highlight-m">1317049445</span> <span class="highlight-nv">addr</span><span class="highlight-o">=</span>192.168.2.45:8004 <span class="highlight-nv">fd</span><span class="highlight-o">=</span><span class="highlight-m">40</span> <span class="highlight-nv">name</span><span class="highlight-o">=</span> <span class="highlight-nv">age</span><span class="highlight-o">=</span><span class="highlight-m">314</span> <span class="highlight-nv">idle</span><span class="highlight-o">=</span><span class="highlight-m">0</span> <span class="highlight-nv">flags</span><span class="highlight-o">=</span>S <span class="highlight-nv">db</span><span class="highlight-o">=</span><span class="highlight-m">0</span> <span class="highlight-nv">sub</span><span class="highlight-o">=</span><span class="highlight-m">0</span> 
@@ -55,9 +57,6 @@
     > <p>本文主要讲如何在修改完Jedis代码之后完成单元测试。</p>
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
     > <p>最近可能是闲的蛋疼，所以打算在自己博客上面接入广告。</p>
-* 📝 [kali rolling linux 安装BCM43142网卡驱动](https://www.zeekling.cn/articles/2020/09/26/1601091635148.html) 
-    > <p>手动迁移CSDN博客。</p>
-    > <p>玩linux已经有半年多的时间了，在这半年时间里，我的linux系统重装了已经不下于十次了吧。最近心血来潮，玩了一把kali linux (大学霸)，除了无线网卡驱动没有之外，其他的都很满意，比之前用的ubuntu系列的好多了。我知道有好多人都在用ubuntu系统，主要是因为这个系统用的人多，社区力量比较大，你能遇到的问题别人都已经遇到过了，在网上都可以找到很多关于ubuntu这个系统出问题之后的解决方案。ubuntu的确是入门的好东西。但是他也有好多缺点：不怎么稳定，在ubuntu用过一段时间之后，你会发现电脑开机之后会弹出很多错误信息，我特别讨厌这个，就把这个弹框禁止了，后来开机就没有这个可恶的东西了。但是如果不禁止的话这个就有点不友好了。ubuntu的源太旧了，有好多软件用apt 安装后会发现版本太旧了，根本没办法用，然后的自己从官网上下载，然后编译安装。对于一个想学好linux 的人来说，这些不算什么，但是源太旧的话就失去了源存在的意义了，不是吗。最后我觉着ubuntu的界面实在是不好看，尽管网上有人说ubuntu的界面不错，但是我觉得真的不好看，当然桌面可以自己装，这个不算什么。</p>
 
 
 
