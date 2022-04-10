@@ -13,6 +13,8 @@
 
 ### 最新
 
+* 📝 [Redis常见问题以及优化思路](https://www.zeekling.cn/articles/2022/04/10/1649579684900.html) 
+    > 
 * 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
     > <p>国产动漫详细列表，简单记录最近可以看的动漫列表。持续更新。</p>
 * 📝 [Redis集群主备缓存区满了导致主备频繁倒换](https://www.zeekling.cn/articles/2022/02/27/1645957902937.html) 
@@ -55,8 +57,6 @@
     > <p>Jedis is a Java client for <a href="https://github.com/redis/redis" title="Redis" target="_blank">Redis</a> designed for performance and ease of use.</p>
     > </blockquote>
     > <p>本文主要讲如何在修改完Jedis代码之后完成单元测试。</p>
-* 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
-    > <p>最近可能是闲的蛋疼，所以打算在自己博客上面接入广告。</p>
 
 
 
