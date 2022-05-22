@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
+ 
 * 📝 [gitea + drone 搭建ci流水线](https://www.zeekling.cn/articles/2022/05/04/1651675171943.html) 
  
 * 📝 [Redis知识思维导图总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
@@ -31,8 +33,6 @@
 * 📝 [Linux sogou输入法显示简体输入却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
  
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
- 
-* 📝 [Redis实现分布式锁](https://www.zeekling.cn/articles/2022/01/09/1641722558007.html) 
  
 
 
