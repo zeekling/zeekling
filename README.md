@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [redis 命令exists vs get](https://www.zeekling.cn/articles/2022/11/10/1668095970574.html) 
+ 
 * 📝 [Redis知识思维导图总结](https://www.zeekling.cn/articles/2021/11/07/1636295639346.html) 
  
 * 📝 [Redis逻辑集群创建](https://www.zeekling.cn/articles/2021/11/13/1636791051775.html) 
@@ -31,8 +33,6 @@
 * 📝 [复制粘贴之父去世了](https://www.zeekling.cn/articles/2020/02/20/1582212082297.html) 
  
 * 📝 [华为社招笔试题](https://www.zeekling.cn/articles/2020/02/23/1582452011400.html) 
- 
-* 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
  
 
 
