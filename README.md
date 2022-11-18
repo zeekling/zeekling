@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [autoreconf -ivf 报错error: required file './ltmain.sh' not found](https://www.zeekling.cn/articles/2022/11/18/1668782152761.html) 
+ 
 * 📝 [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html) 
  
 * 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
@@ -31,8 +33,6 @@
 * 📝 [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html) 
  
 * 📝 [2021年计划](https://www.zeekling.cn/articles/2021/02/17/1613545728619.html) 
- 
-* 📝 [Linux sogou输入法显示简体输入却是繁体](https://www.zeekling.cn/articles/2021/03/25/1616675636194.html) 
  
 
 
