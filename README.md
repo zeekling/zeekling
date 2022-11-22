@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [小令童鞋](https://www/zeekling.cn)! 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zeekling&show_icons=true) 
+![Github Stats](https://github-readme-stats-zeekling.vercel.app/api?username=zeekling&show_icons=true) 
 
 ### 我在博客[小令童鞋](https://www/zeekling.cn)的近期动态
 ⭐️ Star [个人主页](https://github.com/zeekling) 后会自动更新
