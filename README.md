@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
+ 
 * 📝 [autoreconf -ivf 报错error: required file './ltmain.sh' not found](https://www.zeekling.cn/articles/2022/11/18/1668782152761.html) 
  
 * 📝 [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html) 
@@ -31,8 +33,6 @@
 * 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
  
 * 📝 [Redis 6.0新特性----RESP3协议](https://www.zeekling.cn/articles/2021/01/10/1610263628832.html) 
- 
-* 📝 [2021年计划](https://www.zeekling.cn/articles/2021/02/17/1613545728619.html) 
  
 
 
