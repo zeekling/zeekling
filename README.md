@@ -2,6 +2,8 @@
 
 ![Github Stats](https://github-readme-stats-zeekling.vercel.app/api?username=zeekling&show_icons=true) 
 
+![Top Langs](https://github-readme-stats-zeekling.vercel.app/api/top-langs/?username=zeekling)
+
 ### 我在博客[小令童鞋](https://www/zeekling.cn)的近期动态
 ⭐️ Star [个人主页](https://github.com/zeekling) 后会自动更新
 
