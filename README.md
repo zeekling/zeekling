@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [压缩列表的源码实现](https://www.zeekling.cn/articles/2022/12/09/1670597302766.html) 
+ 
 * 📝 [Redis 常见命令](https://www.zeekling.cn/articles/2022/11/24/1669220307613.html) 
  
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
@@ -31,8 +33,6 @@
 * 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
  
 * 📝 [Redis 6 客户端缓存](https://www.zeekling.cn/articles/2020/12/16/1608129353447.html) 
- 
-* 📝 [写年终总结的第二年](https://www.zeekling.cn/articles/2020/12/25/1608896366398.html) 
  
 
 
