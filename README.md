@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [跳跃列表源码实现](https://www.zeekling.cn/articles/2022/12/30/1672414352010.html) 
+ 
 * 📝 [压缩列表的源码实现](https://www.zeekling.cn/articles/2022/12/09/1670597302766.html) 
  
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Redis源码】strlen命令](https://www.zeekling.cn/articles/2020/11/11/1605098851638.html) 
  
 * 📝 [【Redis源码】mget命令](https://www.zeekling.cn/articles/2020/11/11/1605109223498.html) 
- 
-* 📝 [【Redis源码】RDB持久化源码实现](https://www.zeekling.cn/articles/2020/11/25/1606235262538.html) 
  
 
 
