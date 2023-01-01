@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Flink状态后端和CheckPoint 调优](https://www.zeekling.cn/articles/2023/01/02/1672595660973.html) 
+ 
 * 📝 [Redis 可以禁用的高危命令](https://www.zeekling.cn/articles/2022/08/02/1659370527373.html) 
  
 * 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
@@ -31,8 +33,6 @@
 * 📝 [autoreconf -ivf 报错error: required file './ltmain.sh' not found](https://www.zeekling.cn/articles/2022/11/18/1668782152761.html) 
  
 * 📝 [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html) 
- 
-* 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
  
 
 
