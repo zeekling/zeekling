@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Redis 可以禁用的高危命令](https://www.zeekling.cn/articles/2022/08/02/1659370527373.html) 
+ 
 * 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
  
 * 📝 [跳跃列表源码实现](https://www.zeekling.cn/articles/2022/12/30/1672414352010.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Redis源码】setrange命令](https://www.zeekling.cn/articles/2020/11/08/1604841590957.html) 
  
 * 📝 [当Redis数据磁盘坏掉之后会发生什么](https://www.zeekling.cn/articles/2020/11/09/1604937462651.html) 
- 
-* 📝 [【Redis源码】strlen命令](https://www.zeekling.cn/articles/2020/11/11/1605098851638.html) 
  
 
 
