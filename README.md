@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
+ 
 * 📝 [Flink作业反压处理](https://www.zeekling.cn/articles/2023/01/06/1673019386175.html) 
  
 * 📝 [Flink状态后端和CheckPoint 调优](https://www.zeekling.cn/articles/2023/01/02/1672595660973.html) 
@@ -31,8 +33,6 @@
 * 📝 [Redis 常见命令](https://www.zeekling.cn/articles/2022/11/24/1669220307613.html) 
  
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
- 
-* 📝 [autoreconf -ivf 报错error: required file './ltmain.sh' not found](https://www.zeekling.cn/articles/2022/11/18/1668782152761.html) 
  
 
 
