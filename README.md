@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
+ 
 * 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
  
 * 📝 [Flink作业反压处理](https://www.zeekling.cn/articles/2023/01/06/1673019386175.html) 
@@ -27,8 +29,6 @@
 * 📝 [跳跃列表源码实现](https://www.zeekling.cn/articles/2022/12/30/1672414352010.html) 
  
 * 📝 [压缩列表的源码实现](https://www.zeekling.cn/articles/2022/12/09/1670597302766.html) 
- 
-* 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
  
 * 📝 [Redis 常见命令](https://www.zeekling.cn/articles/2022/11/24/1669220307613.html) 
  
