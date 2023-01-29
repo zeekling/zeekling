@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
+ 
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
  
 * 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
@@ -31,8 +33,6 @@
 * 📝 [压缩列表的源码实现](https://www.zeekling.cn/articles/2022/12/09/1670597302766.html) 
  
 * 📝 [Redis 常见命令](https://www.zeekling.cn/articles/2022/11/24/1669220307613.html) 
- 
-* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
  
 
 
