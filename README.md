@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
+ 
 * 📝 [Flink双流Join底层原理](https://www.zeekling.cn/articles/2023/02/11/1676089884617.html) 
  
 * 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
@@ -31,8 +33,6 @@
 * 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
  
 * 📝 [跳跃列表源码实现](https://www.zeekling.cn/articles/2022/12/30/1672414352010.html) 
- 
-* 📝 [压缩列表的源码实现](https://www.zeekling.cn/articles/2022/12/09/1670597302766.html) 
  
 
 
