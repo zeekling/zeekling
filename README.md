@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [debian 11 安装clang-15](https://www.zeekling.cn/articles/2023/04/21/1682088668680.html) 
+ 
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
  
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
@@ -31,8 +33,6 @@
 * 📝 [Redis 可以禁用的高危命令](https://www.zeekling.cn/articles/2022/08/02/1659370527373.html) 
  
 * 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
- 
-* 📝 [跳跃列表源码实现](https://www.zeekling.cn/articles/2022/12/30/1672414352010.html) 
  
 
 
