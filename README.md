@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
+ 
 * 📝 [debian 11 安装clang-15](https://www.zeekling.cn/articles/2023/04/21/1682088668680.html) 
  
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
@@ -21,8 +23,6 @@
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
  
 * 📝 [Flink双流Join底层原理](https://www.zeekling.cn/articles/2023/02/11/1676089884617.html) 
- 
-* 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
  
 * 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
  
