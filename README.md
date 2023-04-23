@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Bolo博客速度优化](https://www.zeekling.cn/articles/2023/04/24/1682266164003.html) 
+ 
 * 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
  
 * 📝 [debian 11 安装clang-15](https://www.zeekling.cn/articles/2023/04/21/1682088668680.html) 
@@ -31,8 +33,6 @@
 * 📝 [Flink状态后端和CheckPoint 调优](https://www.zeekling.cn/articles/2023/01/02/1672595660973.html) 
  
 * 📝 [Redis 可以禁用的高危命令](https://www.zeekling.cn/articles/2022/08/02/1659370527373.html) 
- 
-* 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
  
 
 
