@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
+ 
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
  
 * 📝 [留言板](https://www.zeekling.cn/guestbook.html) 
@@ -31,8 +33,6 @@
 * 📝 [Flink双流Join底层原理](https://www.zeekling.cn/articles/2023/02/11/1676089884617.html) 
  
 * 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
- 
-* 📝 [Flink作业反压处理](https://www.zeekling.cn/articles/2023/01/06/1673019386175.html) 
  
 
 
