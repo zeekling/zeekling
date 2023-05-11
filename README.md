@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Debian 9如何升级到Debian 10](https://www.zeekling.cn/articles/2023/05/12/1683823152718.html) 
+ 
 * 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
  
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
@@ -31,8 +33,6 @@
 * 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
  
 * 📝 [Flink双流Join底层原理](https://www.zeekling.cn/articles/2023/02/11/1676089884617.html) 
- 
-* 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
  
 
 
