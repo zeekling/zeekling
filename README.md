@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [老电脑如何继续继续工作](https://www.zeekling.cn/articles/2023/05/12/1684082161982.html) 
+ 
 * 📝 [Debian 9如何升级到Debian 10](https://www.zeekling.cn/articles/2023/05/12/1683823152718.html) 
  
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
@@ -31,8 +33,6 @@
 * 📝 [debian 11 安装clang-15](https://www.zeekling.cn/articles/2023/04/21/1682088668680.html) 
  
 * 📝 [Git命令详解](https://www.zeekling.cn/articles/2019/12/01/1575184426144.html) 
- 
-* 📝 [小令童鞋的书单](https://www.zeekling.cn/book.html) 
  
 
 
