@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [记录一次由于Jar包冲突导致的神奇问题](https://www.zeekling.cn/articles/2023/05/22/1684770196686.html) 
+ 
 * 📝 [Flink 配置文件详解](https://www.zeekling.cn/articles/2020/05/02/1588432985627.html) 
  
 * 📝 [老电脑如何继续继续工作](https://www.zeekling.cn/articles/2023/05/12/1684082161982.html) 
@@ -31,8 +33,6 @@
 * 📝 [留言板](https://www.zeekling.cn/guestbook.html) 
  
 * 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
- 
-* 📝 [debian 11 安装clang-15](https://www.zeekling.cn/articles/2023/04/21/1682088668680.html) 
  
 
 
