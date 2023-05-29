@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Linux 安装常见编译工具安装](https://www.zeekling.cn/articles/2023/05/29/1685370053201.html) 
+ 
 * 📝 [记录一次由于Jar包冲突导致的神奇问题](https://www.zeekling.cn/articles/2023/05/22/1684770196686.html) 
  
 * 📝 [Flink 配置文件详解](https://www.zeekling.cn/articles/2020/05/02/1588432985627.html) 
@@ -31,8 +33,6 @@
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
  
 * 📝 [留言板](https://www.zeekling.cn/guestbook.html) 
- 
-* 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
  
 
 
