@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
+ 
 * 📝 [Linux 安装常见编译工具安装](https://www.zeekling.cn/articles/2023/05/29/1685370053201.html) 
  
 * 📝 [记录一次由于Jar包冲突导致的神奇问题](https://www.zeekling.cn/articles/2023/05/22/1684770196686.html) 
@@ -27,8 +29,6 @@
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
  
 * 📝 [Bolo博客速度优化](https://www.zeekling.cn/articles/2023/04/24/1682266164003.html) 
- 
-* 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
  
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
  
