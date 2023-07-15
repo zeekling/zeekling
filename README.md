@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
+ 
 * 📝 [Flink 常见问题总结](https://www.zeekling.cn/articles/2023/07/01/1688213561971.html) 
  
 * 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
@@ -31,8 +33,6 @@
 * 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
  
 * 📝 [Bolo博客速度优化](https://www.zeekling.cn/articles/2023/04/24/1682266164003.html) 
- 
-* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
  
 
 
