@@ -14,6 +14,18 @@
 
 ### 最新文章
 
+* 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
+ 
+* 📝 [Flink状态后端和CheckPoint 调优](https://www.zeekling.cn/articles/2023/01/02/1672595660973.html) 
+ 
+* 📝 [Flink作业反压处理](https://www.zeekling.cn/articles/2023/01/06/1673019386175.html) 
+ 
+* 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
+ 
+* 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
+ 
+* 📝 [Flink双流Join底层原理](https://www.zeekling.cn/articles/2023/02/11/1676089884617.html) 
+ 
 * 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
  
 * 📝 [Flink 常见问题总结](https://www.zeekling.cn/articles/2023/07/01/1688213561971.html) 
@@ -21,18 +33,6 @@
 * 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
  
 * 📝 [Linux 安装常见编译工具安装](https://www.zeekling.cn/articles/2023/05/29/1685370053201.html) 
- 
-* 📝 [记录一次由于Jar包冲突导致的神奇问题](https://www.zeekling.cn/articles/2023/05/22/1684770196686.html) 
- 
-* 📝 [Flink 配置文件详解](https://www.zeekling.cn/articles/2020/05/02/1588432985627.html) 
- 
-* 📝 [老电脑如何继续继续工作](https://www.zeekling.cn/articles/2023/05/12/1684082161982.html) 
- 
-* 📝 [Debian 9如何升级到Debian 10](https://www.zeekling.cn/articles/2023/05/12/1683823152718.html) 
- 
-* 📝 [博客接入Google 广告](https://www.zeekling.cn/articles/2019/12/10/1575989964574.html) 
- 
-* 📝 [Bolo博客速度优化](https://www.zeekling.cn/articles/2023/04/24/1682266164003.html) 
  
 
 
