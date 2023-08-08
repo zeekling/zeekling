@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Idea 运行Test报错：scala: No scalac found to compile scala sources](https://www.zeekling.cn/articles/2023/08/08/1691509062761.html) 
+ 
 * 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
  
 * 📝 [Flink状态后端和CheckPoint 调优](https://www.zeekling.cn/articles/2023/01/02/1672595660973.html) 
@@ -31,8 +33,6 @@
 * 📝 [Flink 常见问题总结](https://www.zeekling.cn/articles/2023/07/01/1688213561971.html) 
  
 * 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
- 
-* 📝 [Linux 安装常见编译工具安装](https://www.zeekling.cn/articles/2023/05/29/1685370053201.html) 
  
 
 
