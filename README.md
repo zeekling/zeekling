@@ -14,25 +14,25 @@
 
 ### 最新文章
 
-* 📝 [Idea 运行Test报错：scala: No scalac found to compile scala sources](https://www.zeekling.cn/articles/2023/08/08/1691509062761.html) 
+* 📝 [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html) 
  
-* 📝 [Flink资源调优](https://www.zeekling.cn/articles/2022/12/31/1672497765844.html) 
+* 📝 [Auto-Encoding Variational Bayes 笔记](https://www.zeekling.cn/articles/2019/08/17/1566030664360.html) 
  
-* 📝 [Flink状态后端和CheckPoint 调优](https://www.zeekling.cn/articles/2023/01/02/1672595660973.html) 
+* 📝 [VARIATIONAL RECURRENT AUTO-ENCODERS 详解](https://www.zeekling.cn/articles/2019/08/18/1566099716666.html) 
  
-* 📝 [Flink作业反压处理](https://www.zeekling.cn/articles/2023/01/06/1673019386175.html) 
+* 📝 [半监督学习](https://www.zeekling.cn/articles/2019/08/31/1567233072756.html) 
  
-* 📝 [Flink数据倾斜理解](https://www.zeekling.cn/articles/2023/01/15/1673759370022.html) 
+* 📝 [Conditional Adversarial Nets 详解](https://www.zeekling.cn/articles/2019/10/19/1571495734883.html) 
  
-* 📝 [Flink SQL 优化](https://www.zeekling.cn/articles/2023/01/29/1674997482998.html) 
+* 📝 [Dialogue Transformers 论文详解](https://www.zeekling.cn/articles/2019/11/24/1574567640423.html) 
  
-* 📝 [Flink双流Join底层原理](https://www.zeekling.cn/articles/2023/02/11/1676089884617.html) 
+* 📝 [The RavenClaw dialog management framework 论文阅读](https://www.zeekling.cn/articles/2019/11/30/1575095348757.html) 
  
-* 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
+* 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
  
-* 📝 [Flink 常见问题总结](https://www.zeekling.cn/articles/2023/07/01/1688213561971.html) 
+* 📝 [世界好小](https://www.zeekling.cn/articles/2020/03/27/1585309244826.html) 
  
-* 📝 [Linux 安装最新Neovim](https://www.zeekling.cn/articles/2023/05/10/1683649298217.html) 
+* 📝 [神经网络简介](https://www.zeekling.cn/articles/2020/04/25/1587806158201.html) 
  
 
 
