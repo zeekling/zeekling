@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
+ 
 * 📝 [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html) 
  
 * 📝 [Auto-Encoding Variational Bayes 笔记](https://www.zeekling.cn/articles/2019/08/17/1566030664360.html) 
@@ -31,8 +33,6 @@
 * 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
  
 * 📝 [世界好小](https://www.zeekling.cn/articles/2020/03/27/1585309244826.html) 
- 
-* 📝 [神经网络简介](https://www.zeekling.cn/articles/2020/04/25/1587806158201.html) 
  
 
 
