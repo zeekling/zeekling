@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Flink Checkpoint/Savepoint对比](https://www.zeekling.cn/articles/2023/09/10/1694316382278.html) 
+ 
 * 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
  
 * 📝 [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html) 
@@ -31,8 +33,6 @@
 * 📝 [The RavenClaw dialog management framework 论文阅读](https://www.zeekling.cn/articles/2019/11/30/1575095348757.html) 
  
 * 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
- 
-* 📝 [世界好小](https://www.zeekling.cn/articles/2020/03/27/1585309244826.html) 
  
 
 
