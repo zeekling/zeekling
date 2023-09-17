@@ -14,11 +14,11 @@
 
 ### 最新文章
 
+* 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
+ 
 * 📝 [java 17运行jar报错：java.lang.UnsatisfiedLinkError: Can't load library:](https://www.zeekling.cn/articles/2023/09/17/1694946648776.html) 
  
 * 📝 [Flink Checkpoint/Savepoint对比](https://www.zeekling.cn/articles/2023/09/10/1694316382278.html) 
- 
-* 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
  
 * 📝 [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html) 
  
