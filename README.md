@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Flink基本架构](https://www.zeekling.cn/articles/2023/09/20/1695220835152.html) 
+ 
 * 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
  
 * 📝 [java 17运行jar报错：java.lang.UnsatisfiedLinkError: Can't load library:](https://www.zeekling.cn/articles/2023/09/17/1694946648776.html) 
@@ -31,8 +33,6 @@
 * 📝 [Conditional Adversarial Nets 详解](https://www.zeekling.cn/articles/2019/10/19/1571495734883.html) 
  
 * 📝 [Dialogue Transformers 论文详解](https://www.zeekling.cn/articles/2019/11/24/1574567640423.html) 
- 
-* 📝 [The RavenClaw dialog management framework 论文阅读](https://www.zeekling.cn/articles/2019/11/30/1575095348757.html) 
  
 
 
