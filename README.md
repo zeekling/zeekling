@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Hudi 基础知识详解](https://www.zeekling.cn/articles/2023/09/28/1695909094599.html) 
+ 
 * 📝 [RocksDB 详解](https://www.zeekling.cn/articles/2023/09/23/1695451402168.html) 
  
 * 📝 [Flink基本架构](https://www.zeekling.cn/articles/2023/09/20/1695220835152.html) 
@@ -31,8 +33,6 @@
 * 📝 [VARIATIONAL RECURRENT AUTO-ENCODERS 详解](https://www.zeekling.cn/articles/2019/08/18/1566099716666.html) 
  
 * 📝 [半监督学习](https://www.zeekling.cn/articles/2019/08/31/1567233072756.html) 
- 
-* 📝 [Conditional Adversarial Nets 详解](https://www.zeekling.cn/articles/2019/10/19/1571495734883.html) 
  
 
 
