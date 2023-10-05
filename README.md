@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [使用Docker快速搭建Kerberos环境](https://www.zeekling.cn/articles/2022/07/16/1657963320555.html) 
+ 
 * 📝 [Hudi 基础知识详解](https://www.zeekling.cn/articles/2023/09/28/1695909094599.html) 
  
 * 📝 [RocksDB 详解](https://www.zeekling.cn/articles/2023/09/23/1695451402168.html) 
@@ -31,8 +33,6 @@
 * 📝 [Auto-Encoding Variational Bayes 笔记](https://www.zeekling.cn/articles/2019/08/17/1566030664360.html) 
  
 * 📝 [VARIATIONAL RECURRENT AUTO-ENCODERS 详解](https://www.zeekling.cn/articles/2019/08/18/1566099716666.html) 
- 
-* 📝 [半监督学习](https://www.zeekling.cn/articles/2019/08/31/1567233072756.html) 
  
 
 
