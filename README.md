@@ -14,6 +14,10 @@
 
 ### 最新文章
 
+* 📝 [Yarn 详解](https://www.zeekling.cn/articles/2023/10/22/1697967064322.html) 
+ 
+* 📝 [HDFS 详解](https://www.zeekling.cn/articles/2023/10/22/1697967013370.html) 
+ 
 * 📝 [Hudi 基础知识详解](https://www.zeekling.cn/articles/2023/09/28/1695909094599.html) 
  
 * 📝 [使用Docker快速搭建Kerberos环境](https://www.zeekling.cn/articles/2022/07/16/1657963320555.html) 
@@ -29,10 +33,6 @@
 * 📝 [Flink Checkpoint/Savepoint对比](https://www.zeekling.cn/articles/2023/09/10/1694316382278.html) 
  
 * 📝 [dropout 详解](https://www.zeekling.cn/articles/2019/08/03/1564840694727.html) 
- 
-* 📝 [Auto-Encoding Variational Bayes 笔记](https://www.zeekling.cn/articles/2019/08/17/1566030664360.html) 
- 
-* 📝 [VARIATIONAL RECURRENT AUTO-ENCODERS 详解](https://www.zeekling.cn/articles/2019/08/18/1566099716666.html) 
  
 
 
