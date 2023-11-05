@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [nameNode启动过程源码分析](https://www.zeekling.cn/articles/2023/11/05/1699156894407.html) 
+ 
 * 📝 [NameNode 详解](https://www.zeekling.cn/articles/2023/11/04/1699081992102.html) 
  
 * 📝 [Yarn 详解](https://www.zeekling.cn/articles/2023/10/22/1697967064322.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
  
 * 📝 [java 17运行jar报错：java.lang.UnsatisfiedLinkError: Can't load library:](https://www.zeekling.cn/articles/2023/09/17/1694946648776.html) 
- 
-* 📝 [Flink Checkpoint/Savepoint对比](https://www.zeekling.cn/articles/2023/09/10/1694316382278.html) 
  
 
 
