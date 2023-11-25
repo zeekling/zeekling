@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [ResourceManager简介](https://www.zeekling.cn/articles/2023/11/25/1700923678066.html) 
+ 
 * 📝 [nameNode启动过程源码分析](https://www.zeekling.cn/articles/2023/11/05/1699156894407.html) 
  
 * 📝 [NameNode 详解](https://www.zeekling.cn/articles/2023/11/04/1699081992102.html) 
@@ -31,8 +33,6 @@
 * 📝 [Flink基本架构](https://www.zeekling.cn/articles/2023/09/20/1695220835152.html) 
  
 * 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
- 
-* 📝 [java 17运行jar报错：java.lang.UnsatisfiedLinkError: Can't load library:](https://www.zeekling.cn/articles/2023/09/17/1694946648776.html) 
  
 
 
