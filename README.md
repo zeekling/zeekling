@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Yarn 状态机以及事件机制](https://www.zeekling.cn/articles/2023/11/28/1701184404701.html) 
+ 
 * 📝 [ResourceManager简介](https://www.zeekling.cn/articles/2023/11/25/1700923678066.html) 
  
 * 📝 [nameNode启动过程源码分析](https://www.zeekling.cn/articles/2023/11/05/1699156894407.html) 
@@ -31,8 +33,6 @@
 * 📝 [RocksDB 详解](https://www.zeekling.cn/articles/2023/09/23/1695451402168.html) 
  
 * 📝 [Flink基本架构](https://www.zeekling.cn/articles/2023/09/20/1695220835152.html) 
- 
-* 📝 [【Flink】【更新中】状态后端和checkpoint](https://www.zeekling.cn/articles/2023/08/27/1693148634888.html) 
  
 
 
