@@ -14,7 +14,7 @@
 
 ### 最新文章
 
-* 📝 [hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
+* 📝 [【持续更新】hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
  
 * 📝 [Yarn 状态机以及事件机制](https://www.zeekling.cn/articles/2023/11/28/1701184404701.html) 
  
