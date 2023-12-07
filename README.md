@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Yarn 作业启动源码解读](https://www.zeekling.cn/articles/2023/12/07/1701960975977.html) 
+ 
 * 📝 [【持续更新】hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
  
 * 📝 [Yarn 状态机以及事件机制](https://www.zeekling.cn/articles/2023/11/28/1701184404701.html) 
@@ -31,8 +33,6 @@
 * 📝 [Hudi 基础知识详解](https://www.zeekling.cn/articles/2023/09/28/1695909094599.html) 
  
 * 📝 [使用Docker快速搭建Kerberos环境](https://www.zeekling.cn/articles/2022/07/16/1657963320555.html) 
- 
-* 📝 [RocksDB 详解](https://www.zeekling.cn/articles/2023/09/23/1695451402168.html) 
  
 
 
