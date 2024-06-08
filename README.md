@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [neovim 从0开始配置优化](https://www.zeekling.cn/articles/2024/06/09/1717863829147.html) 
+ 
 * 📝 [docker stop container 报错：tried to kill container, but did not receive an exit event](https://www.zeekling.cn/articles/2024/06/02/1717338988454.html) 
  
 * 📝 [jobhistory 作业缓存源码详解](https://www.zeekling.cn/articles/2024/05/26/1716735213430.html) 
@@ -31,8 +33,6 @@
 * 📝 [Yarn 状态机以及事件机制](https://www.zeekling.cn/articles/2023/11/28/1701184404701.html) 
  
 * 📝 [ResourceManager简介](https://www.zeekling.cn/articles/2023/11/25/1700923678066.html) 
- 
-* 📝 [nameNode启动过程源码分析](https://www.zeekling.cn/articles/2023/11/05/1699156894407.html) 
  
 
 
