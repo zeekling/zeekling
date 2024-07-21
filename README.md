@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [BPServiceActor详解](https://www.zeekling.cn/articles/2024/07/21/1721572490580.html) 
+ 
 * 📝 [【Hadoop】nameNode启动过程源码分析](https://www.zeekling.cn/articles/2023/11/05/1699156894407.html) 
  
 * 📝 [【Flink】Flink基本架构](https://www.zeekling.cn/articles/2023/09/20/1695220835152.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Hadoop】Yarn 状态机以及事件机制](https://www.zeekling.cn/articles/2023/11/28/1701184404701.html) 
  
 * 📝 [【Hadoop】【持续更新】hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
- 
-* 📝 [【Hadoop】Yarn 作业启动源码解读](https://www.zeekling.cn/articles/2023/12/07/1701960975977.html) 
  
 
 
