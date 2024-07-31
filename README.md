@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [ContainerManager详解](https://www.zeekling.cn/articles/2024/08/01/1722441976767.html) 
+ 
 * 📝 [BPServiceActor详解](https://www.zeekling.cn/articles/2024/07/21/1721572490580.html) 
  
 * 📝 [【Hadoop】【持续更新】hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Hadoop】jobhistory 作业缓存源码详解](https://www.zeekling.cn/articles/2024/05/26/1716735213430.html) 
  
 * 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
- 
-* 📝 [白蛇缘起](https://www.zeekling.cn/articles/2019/07/14/1563077032010.html) 
  
 
 
