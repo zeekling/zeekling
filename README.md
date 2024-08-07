@@ -1,8 +1,8 @@
-### Hey 👋, I'm [浪浪山下那个村](https://www/zeekling.cn)! 
+### Hey 👋, I'm [浪浪山下那个村](https://www.zeekling.cn)! 
 
 ![Github Stats](https://github-readme-stats-zeekling.vercel.app/api?username=zeekling&show_icons=true) 
 
-### 我在博客[浪浪山下那个村](https://www/zeekling.cn)的近期动态
+### 我在博客[浪浪山下那个村](https://www.zeekling.cn)的近期动态
 ⭐️ Star [个人主页](https://github.com/zeekling) 后会自动更新
 
 <p align="center"><img alt="浪浪山下那个村" src="https://pan.zeekling.cn/zeekling/blog/logo.th.png"></p><h2 align="center"> 浪浪山下那个村 </h2>
