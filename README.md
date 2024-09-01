@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Hadoop 认证模块详解](https://www.zeekling.cn/articles/2024/09/01/1725189985754.html) 
+ 
 * 📝 [ContainerManager详解](https://www.zeekling.cn/articles/2024/08/01/1722441976767.html) 
  
 * 📝 [BPServiceActor详解](https://www.zeekling.cn/articles/2024/07/21/1721572490580.html) 
@@ -31,8 +33,6 @@
 * 📝 [docker stop container 报错：tried to kill container, but did not receive an exit event](https://www.zeekling.cn/articles/2024/06/02/1717338988454.html) 
  
 * 📝 [【Hadoop】jobhistory 作业缓存源码详解](https://www.zeekling.cn/articles/2024/05/26/1716735213430.html) 
- 
-* 📝 [国产动漫详细列表](https://www.zeekling.cn/articles/2019/06/26/1561562610986.html) 
  
 
 
