@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Capacity调度器源码解析](https://blog.zeekling.cn/articles/2024/11/04/1730651036031.html) 
+ 
 * 📝 [router启动详解](https://blog.zeekling.cn/articles/2024/10/10/1728489800030.html) 
  
 * 📝 [hadoop 主备倒换控制器：ZKFailoverController详解](https://blog.zeekling.cn/articles/2024/09/22/1727020126114.html) 
@@ -31,8 +33,6 @@
 * 📝 [neovim 从0开始配置优化](https://blog.zeekling.cn/articles/2024/06/09/1717863829147.html) 
  
 * 📝 [【Hadoop】FSDirectory详解](https://blog.zeekling.cn/articles/2024/03/31/1711889420931.html) 
- 
-* 📝 [【Hadoop】Yarn 作业启动源码解读](https://blog.zeekling.cn/articles/2023/12/07/1701960975977.html) 
  
 
 
