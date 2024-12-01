@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://blog.zeekling.cn/articles/2024/12/01/1733054084001.html) 
+ 
 * 📝 [Capacity调度器源码解析](https://blog.zeekling.cn/articles/2024/11/04/1730651036031.html) 
  
 * 📝 [router启动详解](https://blog.zeekling.cn/articles/2024/10/10/1728489800030.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Hadoop】ResourceManager简介](https://blog.zeekling.cn/articles/2023/11/25/1700923678066.html) 
  
 * 📝 [neovim 从0开始配置优化](https://blog.zeekling.cn/articles/2024/06/09/1717863829147.html) 
- 
-* 📝 [【Hadoop】FSDirectory详解](https://blog.zeekling.cn/articles/2024/03/31/1711889420931.html) 
  
 
 
