@@ -14,25 +14,25 @@
 
 ### 最新文章
 
-* 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://blog.zeekling.cn/articles/2024/12/01/1733054084001.html) 
+* 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://www.zeekling.cn/articles/2024/12/01/1733054084001.html) 
  
-* 📝 [Capacity调度器源码解析](https://blog.zeekling.cn/articles/2024/11/04/1730651036031.html) 
+* 📝 [Capacity调度器源码解析](https://www.zeekling.cn/articles/2024/11/04/1730651036031.html) 
  
-* 📝 [router启动详解](https://blog.zeekling.cn/articles/2024/10/10/1728489800030.html) 
+* 📝 [router启动详解](https://www.zeekling.cn/articles/2024/10/10/1728489800030.html) 
  
-* 📝 [hadoop 主备倒换控制器：ZKFailoverController详解](https://blog.zeekling.cn/articles/2024/09/22/1727020126114.html) 
+* 📝 [hadoop 主备倒换控制器：ZKFailoverController详解](https://www.zeekling.cn/articles/2024/09/22/1727020126114.html) 
  
-* 📝 [Hadoop 认证模块详解](https://blog.zeekling.cn/articles/2024/09/01/1725189985754.html) 
+* 📝 [Hadoop 认证模块详解](https://www.zeekling.cn/articles/2024/09/01/1725189985754.html) 
  
-* 📝 [ContainerManager详解](https://blog.zeekling.cn/articles/2024/08/01/1722441976767.html) 
+* 📝 [ContainerManager详解](https://www.zeekling.cn/articles/2024/08/01/1722441976767.html) 
  
-* 📝 [BPServiceActor详解](https://blog.zeekling.cn/articles/2024/07/21/1721572490580.html) 
+* 📝 [BPServiceActor详解](https://www.zeekling.cn/articles/2024/07/21/1721572490580.html) 
  
-* 📝 [【Hadoop】【持续更新】hdfs 常见命令](https://blog.zeekling.cn/articles/2023/11/29/1701269553962.html) 
+* 📝 [【Hadoop】【持续更新】hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
  
-* 📝 [【Hadoop】ResourceManager简介](https://blog.zeekling.cn/articles/2023/11/25/1700923678066.html) 
+* 📝 [【Hadoop】ResourceManager简介](https://www.zeekling.cn/articles/2023/11/25/1700923678066.html) 
  
-* 📝 [neovim 从0开始配置优化](https://blog.zeekling.cn/articles/2024/06/09/1717863829147.html) 
+* 📝 [neovim 从0开始配置优化](https://www.zeekling.cn/articles/2024/06/09/1717863829147.html) 
  
 
 
