@@ -1,8 +1,8 @@
-### Hey 👋, I'm [浪浪山下那个村](https://blog.zeekling.cn)! 
+### Hey 👋, I'm [浪浪山下那个村](https://www.zeekling.cn)! 
 
 ![Github Stats](https://github-readme-stats-zeekling.vercel.app/api?username=zeekling&show_icons=true) 
 
-### 我在博客[浪浪山下那个村](https://blog.zeekling.cn)的近期动态
+### 我在博客[浪浪山下那个村](https://www.zeekling.cn)的近期动态
 ⭐️ Star [个人主页](https://github.com/zeekling) 后会自动更新
 
 <p align="center"><img alt="浪浪山下那个村" src="https://pan.zeekling.cn/zeekling/blog/logo.th.png"></p><h2 align="center"> 浪浪山下那个村 </h2>
@@ -14,6 +14,14 @@
 
 ### 最新文章
 
+* 📝 [Mapredcue作业启动](https://www.zeekling.cn/articles/2025/03/29/1743254754138.html) 
+ 
+* 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
+ 
+* 📝 [Gitea 自建代码仓流量大坑](https://www.zeekling.cn/articles/2025/03/09/1741517697630.html) 
+ 
+* 📝 [container-executor 详解](https://www.zeekling.cn/articles/2025/03/02/1740926644462.html) 
+ 
 * 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://www.zeekling.cn/articles/2024/12/01/1733054084001.html) 
  
 * 📝 [Capacity调度器源码解析](https://www.zeekling.cn/articles/2024/11/04/1730651036031.html) 
@@ -25,14 +33,6 @@
 * 📝 [Hadoop 认证模块详解](https://www.zeekling.cn/articles/2024/09/01/1725189985754.html) 
  
 * 📝 [ContainerManager详解](https://www.zeekling.cn/articles/2024/08/01/1722441976767.html) 
- 
-* 📝 [BPServiceActor详解](https://www.zeekling.cn/articles/2024/07/21/1721572490580.html) 
- 
-* 📝 [【Hadoop】【持续更新】hdfs 常见命令](https://www.zeekling.cn/articles/2023/11/29/1701269553962.html) 
- 
-* 📝 [【Hadoop】ResourceManager简介](https://www.zeekling.cn/articles/2023/11/25/1700923678066.html) 
- 
-* 📝 [neovim 从0开始配置优化](https://www.zeekling.cn/articles/2024/06/09/1717863829147.html) 
  
 
 
