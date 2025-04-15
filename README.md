@@ -16,8 +16,6 @@
 
 * 📝 [【Hadoop仿真】如何在仿真NodeManager中实现心跳](https://www.zeekling.cn/articles/2025/04/13/1744552070818.html) 
  
-* 📝 [Hadoop Yarn的ResourceManager压测指南](https://www.zeekling.cn/articles/2025/04/13/1744539240658.html) 
- 
 * 📝 [Mapredcue作业启动](https://www.zeekling.cn/articles/2025/03/29/1743254754138.html) 
  
 * 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
@@ -33,6 +31,8 @@
 * 📝 [router启动详解](https://www.zeekling.cn/articles/2024/10/10/1728489800030.html) 
  
 * 📝 [hadoop 主备倒换控制器：ZKFailoverController详解](https://www.zeekling.cn/articles/2024/09/22/1727020126114.html) 
+ 
+* 📝 [Hadoop 认证模块详解](https://www.zeekling.cn/articles/2024/09/01/1725189985754.html) 
  
 
 
