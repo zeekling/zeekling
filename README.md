@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [webhdfs详解](https://www.zeekling.cn/articles/2025/05/16/1747409083702.html) 
+ 
 * 📝 [【Hadoop仿真】如何在仿真NodeManager中实现心跳](https://www.zeekling.cn/articles/2025/04/13/1744552070818.html) 
  
 * 📝 [Mapredcue作业启动](https://www.zeekling.cn/articles/2025/03/29/1743254754138.html) 
@@ -31,8 +33,6 @@
 * 📝 [router启动详解](https://www.zeekling.cn/articles/2024/10/10/1728489800030.html) 
  
 * 📝 [hadoop 主备倒换控制器：ZKFailoverController详解](https://www.zeekling.cn/articles/2024/09/22/1727020126114.html) 
- 
-* 📝 [Hadoop 认证模块详解](https://www.zeekling.cn/articles/2024/09/01/1725189985754.html) 
  
 
 
