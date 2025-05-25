@@ -14,6 +14,10 @@
 
 ### 最新文章
 
+* 📝 [DistCp源码解析](https://www.zeekling.cn/articles/2025/05/25/1748171143074.html) 
+ 
+* 📝 [leaseManager详解](https://www.zeekling.cn/articles/2025/05/25/1748169425377.html) 
+ 
 * 📝 [webhdfs详解](https://www.zeekling.cn/articles/2025/05/16/1747409083702.html) 
  
 * 📝 [【Hadoop仿真】如何在仿真NodeManager中实现心跳](https://www.zeekling.cn/articles/2025/04/13/1744552070818.html) 
@@ -29,10 +33,6 @@
 * 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://www.zeekling.cn/articles/2024/12/01/1733054084001.html) 
  
 * 📝 [Capacity调度器源码解析](https://www.zeekling.cn/articles/2024/11/04/1730651036031.html) 
- 
-* 📝 [router启动详解](https://www.zeekling.cn/articles/2024/10/10/1728489800030.html) 
- 
-* 📝 [hadoop 主备倒换控制器：ZKFailoverController详解](https://www.zeekling.cn/articles/2024/09/22/1727020126114.html) 
  
 
 
