@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [HDFS 报错：Permission denied: user=dr.who, access=WRITE, inode="/":hadoop01](https://www.zeekling.cn/articles/2025/06/08/1749392516689.html) 
+ 
 * 📝 [DistCp源码解析](https://www.zeekling.cn/articles/2025/05/25/1748171143074.html) 
  
 * 📝 [leaseManager详解](https://www.zeekling.cn/articles/2025/05/25/1748169425377.html) 
@@ -31,8 +33,6 @@
 * 📝 [container-executor 详解](https://www.zeekling.cn/articles/2025/03/02/1740926644462.html) 
  
 * 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://www.zeekling.cn/articles/2024/12/01/1733054084001.html) 
- 
-* 📝 [Capacity调度器源码解析](https://www.zeekling.cn/articles/2024/11/04/1730651036031.html) 
  
 
 
