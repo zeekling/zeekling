@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [distributedShell 样例源码详解](https://www.zeekling.cn/articles/2025/06/15/1749977063291.html) 
+ 
 * 📝 [HDFS 报错：Permission denied: user=dr.who, access=WRITE, inode="/":hadoop01](https://www.zeekling.cn/articles/2025/06/08/1749392516689.html) 
  
 * 📝 [DistCp源码解析](https://www.zeekling.cn/articles/2025/05/25/1748171143074.html) 
@@ -31,8 +33,6 @@
 * 📝 [Gitea 自建代码仓流量大坑](https://www.zeekling.cn/articles/2025/03/09/1741517697630.html) 
  
 * 📝 [container-executor 详解](https://www.zeekling.cn/articles/2025/03/02/1740926644462.html) 
- 
-* 📝 [Idea Hadoop 源码YarnServiceProtos无法补全问题](https://www.zeekling.cn/articles/2024/12/01/1733054084001.html) 
  
 
 
