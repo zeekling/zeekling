@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [用idea 运行Zookeeper是报错 com.codahale.metrics.Reservoir找不见](https://www.zeekling.cn/articles/2025/06/28/1751117466687.html) 
+ 
 * 📝 [distributedShell 样例源码详解](https://www.zeekling.cn/articles/2025/06/15/1749977063291.html) 
  
 * 📝 [HDFS 报错：Permission denied: user=dr.who, access=WRITE, inode="/":hadoop01](https://www.zeekling.cn/articles/2025/06/08/1749392516689.html) 
@@ -31,8 +33,6 @@
 * 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
  
 * 📝 [Gitea 自建代码仓流量大坑](https://www.zeekling.cn/articles/2025/03/09/1741517697630.html) 
- 
-* 📝 [container-executor 详解](https://www.zeekling.cn/articles/2025/03/02/1740926644462.html) 
  
 
 
