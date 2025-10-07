@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
+ 
 * 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
  
 * 📝 [用idea 运行Zookeeper是报错 com.codahale.metrics.Reservoir找不见](https://www.zeekling.cn/articles/2025/06/28/1751117466687.html) 
@@ -31,8 +33,6 @@
 * 📝 [【Hadoop仿真】如何在仿真NodeManager中实现心跳](https://www.zeekling.cn/articles/2025/04/13/1744552070818.html) 
  
 * 📝 [Mapredcue作业启动](https://www.zeekling.cn/articles/2025/03/29/1743254754138.html) 
- 
-* 📝 [linux idea 启动慢、运行慢](https://www.zeekling.cn/articles/2023/07/15/1689392069862.html) 
  
 
 
