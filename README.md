@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Journal 源码详解](https://www.zeekling.cn/articles/2025/10/08/1759896566678.html) 
+ 
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
  
 * 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
@@ -31,8 +33,6 @@
 * 📝 [webhdfs详解](https://www.zeekling.cn/articles/2025/05/16/1747409083702.html) 
  
 * 📝 [【Hadoop仿真】如何在仿真NodeManager中实现心跳](https://www.zeekling.cn/articles/2025/04/13/1744552070818.html) 
- 
-* 📝 [Mapredcue作业启动](https://www.zeekling.cn/articles/2025/03/29/1743254754138.html) 
  
 
 
