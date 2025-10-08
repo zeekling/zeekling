@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
+ 
 * 📝 [Journal 源码详解](https://www.zeekling.cn/articles/2025/10/08/1759896566678.html) 
  
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
@@ -31,8 +33,6 @@
 * 📝 [leaseManager详解](https://www.zeekling.cn/articles/2025/05/25/1748169425377.html) 
  
 * 📝 [webhdfs详解](https://www.zeekling.cn/articles/2025/05/16/1747409083702.html) 
- 
-* 📝 [【Hadoop仿真】如何在仿真NodeManager中实现心跳](https://www.zeekling.cn/articles/2025/04/13/1744552070818.html) 
  
 
 
