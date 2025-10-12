@@ -16,11 +16,11 @@
 
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
  
+* 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
+ 
 * 📝 [Journal 源码详解](https://www.zeekling.cn/articles/2025/10/08/1759896566678.html) 
  
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
- 
-* 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
  
 * 📝 [用idea 运行Zookeeper是报错 com.codahale.metrics.Reservoir找不见](https://www.zeekling.cn/articles/2025/06/28/1751117466687.html) 
  
