@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
+ 
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
  
 * 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
@@ -31,8 +33,6 @@
 * 📝 [DistCp源码解析](https://www.zeekling.cn/articles/2025/05/25/1748171143074.html) 
  
 * 📝 [leaseManager详解](https://www.zeekling.cn/articles/2025/05/25/1748169425377.html) 
- 
-* 📝 [webhdfs详解](https://www.zeekling.cn/articles/2025/05/16/1747409083702.html) 
  
 
 
