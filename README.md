@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [windows 下面使用wsl搭建java编译环境](https://www.zeekling.cn/articles/2025/11/16/1763305688905.html) 
+ 
 * 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
  
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
@@ -31,8 +33,6 @@
 * 📝 [HDFS 报错：Permission denied: user=dr.who, access=WRITE, inode="/":hadoop01](https://www.zeekling.cn/articles/2025/06/08/1749392516689.html) 
  
 * 📝 [DistCp源码解析](https://www.zeekling.cn/articles/2025/05/25/1748171143074.html) 
- 
-* 📝 [leaseManager详解](https://www.zeekling.cn/articles/2025/05/25/1748169425377.html) 
  
 
 
