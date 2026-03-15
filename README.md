@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [3.3.1-3.4.1兼容性分析](https://www.zeekling.cn/articles/2026/03/15/1773554235987.html) 
+ 
 * 📝 [如何在opencode中使用自定义的模型](https://www.zeekling.cn/articles/2026/03/01/1772345968152.html) 
  
 * 📝 [RollingLevelDBTimelineStore 详解](https://www.zeekling.cn/articles/2025/12/21/1766325665364.html) 
@@ -31,8 +33,6 @@
 * 📝 [Journal 源码详解](https://www.zeekling.cn/articles/2025/10/08/1759896566678.html) 
  
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
- 
-* 📝 [用idea 运行Zookeeper是报错 com.codahale.metrics.Reservoir找不见](https://www.zeekling.cn/articles/2025/06/28/1751117466687.html) 
  
 
 
