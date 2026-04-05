@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [RMDelegationTokenSecretManager 深度解析](https://www.zeekling.cn/articles/2026/04/05/1775381100367.html) 
+ 
 * 📝 [hadoop Yarn的 RMStateStore对比分析](https://www.zeekling.cn/articles/2026/04/02/1775144104308.html) 
  
 * 📝 [3.3.1-3.4.1兼容性分析](https://www.zeekling.cn/articles/2026/03/15/1773554235987.html) 
@@ -31,8 +33,6 @@
 * 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
  
 * 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
- 
-* 📝 [Journal 源码详解](https://www.zeekling.cn/articles/2025/10/08/1759896566678.html) 
  
 
 
