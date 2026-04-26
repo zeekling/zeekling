@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [HDFS DataNode 3.3.1 后优化详解](https://www.zeekling.cn/articles/2026/04/26/1777180488029.html) 
+ 
 * 📝 [RMDelegationTokenSecretManager 深度解析](https://www.zeekling.cn/articles/2026/04/05/1775381100367.html) 
  
 * 📝 [hadoop Yarn的 RMStateStore对比分析](https://www.zeekling.cn/articles/2026/04/02/1775144104308.html) 
@@ -31,8 +33,6 @@
 * 📝 [windows 下面使用wsl搭建java编译环境](https://www.zeekling.cn/articles/2025/11/16/1763305688905.html) 
  
 * 📝 [自己简历被抄是什么样的体验](https://www.zeekling.cn/articles/2020/03/12/1583945572026.html) 
- 
-* 📝 [Zookeeper启动源码详解](https://www.zeekling.cn/articles/2025/07/06/1751815086471.html) 
  
 
 
