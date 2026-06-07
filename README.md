@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [NVIDIA-OpenCode-免费模型使用指南](https://www.zeekling.cn/articles/2026/06/06/1780760812734.html) 
+ 
 * 📝 [PuaSE： 简单的全局编排 Agent](https://www.zeekling.cn/articles/2026/05/16/1778937519379.html) 
  
 * 📝 [HDFS DataNode 3.3.1 后优化详解](https://www.zeekling.cn/articles/2026/04/26/1777180488029.html) 
@@ -31,8 +33,6 @@
 * 📝 [NativeIO 源码解析](https://www.zeekling.cn/articles/2025/12/13/1765624715898.html) 
  
 * 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
- 
-* 📝 [windows 下面使用wsl搭建java编译环境](https://www.zeekling.cn/articles/2025/11/16/1763305688905.html) 
  
 
 
