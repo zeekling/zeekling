@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [PuaSE v0.2.2 → v0.2.5 版本变化全览](https://www.zeekling.cn/articles/2026/06/13/1781366163530.html) 
+ 
 * 📝 [NVIDIA-OpenCode-免费模型使用指南](https://www.zeekling.cn/articles/2026/06/06/1780760812734.html) 
  
 * 📝 [PuaSE： 简单的全局编排 Agent](https://www.zeekling.cn/articles/2026/05/16/1778937519379.html) 
@@ -31,8 +33,6 @@
 * 📝 [RollingLevelDBTimelineStore 详解](https://www.zeekling.cn/articles/2025/12/21/1766325665364.html) 
  
 * 📝 [NativeIO 源码解析](https://www.zeekling.cn/articles/2025/12/13/1765624715898.html) 
- 
-* 📝 [我在 GitHub 上的开源项目](https://www.zeekling.cn/github) 
  
 
 
