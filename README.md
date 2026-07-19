@@ -14,6 +14,14 @@
 
 ### 最新文章
 
+* 📝 [Apache HDFS 小文件相关问题全景分析（2022 — 2026）](https://www.zeekling.cn/articles/2026/07/19/1784447376912.html) 
+ 
+* 📝 [Apache YARN 调度器优化全景分析（2022 — 2026）](https://www.zeekling.cn/articles/2026/07/19/1784447214134.html) 
+ 
+* 📝 [HDFS × YARN × AI 交叉领域高质量论文分析（2021–2026）](https://www.zeekling.cn/articles/2026/07/19/1784443721456.html) 
+ 
+* 📝 [HDFS & YARN 高质量论文分析报告（2021–2026）](https://www.zeekling.cn/articles/2026/07/19/1784443645235.html) 
+ 
 * 📝 [PuaSE v0.2.2 → v0.2.5 版本变化全览](https://www.zeekling.cn/articles/2026/06/13/1781366163530.html) 
  
 * 📝 [NVIDIA-OpenCode-免费模型使用指南](https://www.zeekling.cn/articles/2026/06/06/1780760812734.html) 
@@ -25,14 +33,6 @@
 * 📝 [RMDelegationTokenSecretManager 深度解析](https://www.zeekling.cn/articles/2026/04/05/1775381100367.html) 
  
 * 📝 [hadoop Yarn的 RMStateStore对比分析](https://www.zeekling.cn/articles/2026/04/02/1775144104308.html) 
- 
-* 📝 [3.3.1-3.4.1兼容性分析](https://www.zeekling.cn/articles/2026/03/15/1773554235987.html) 
- 
-* 📝 [如何在opencode中使用自定义的模型](https://www.zeekling.cn/articles/2026/03/01/1772345968152.html) 
- 
-* 📝 [RollingLevelDBTimelineStore 详解](https://www.zeekling.cn/articles/2025/12/21/1766325665364.html) 
- 
-* 📝 [NativeIO 源码解析](https://www.zeekling.cn/articles/2025/12/13/1765624715898.html) 
  
 
 
