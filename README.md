@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [HDFS 升级模式（Upgrade Mode）完整分析](https://www.zeekling.cn/articles/2026/07/26/1785057539878.html) 
+ 
 * 📝 [Apache HDFS 小文件相关问题全景分析（2022 — 2026）](https://www.zeekling.cn/articles/2026/07/19/1784447376912.html) 
  
 * 📝 [Apache YARN 调度器优化全景分析（2022 — 2026）](https://www.zeekling.cn/articles/2026/07/19/1784447214134.html) 
@@ -31,8 +33,6 @@
 * 📝 [HDFS DataNode 3.3.1 后优化详解](https://www.zeekling.cn/articles/2026/04/26/1777180488029.html) 
  
 * 📝 [RMDelegationTokenSecretManager 深度解析](https://www.zeekling.cn/articles/2026/04/05/1775381100367.html) 
- 
-* 📝 [hadoop Yarn的 RMStateStore对比分析](https://www.zeekling.cn/articles/2026/04/02/1775144104308.html) 
  
 
 
