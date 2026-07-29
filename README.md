@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [HDFS FsImage 详解](https://www.zeekling.cn/articles/2026/07/29/1785333877437.html) 
+ 
 * 📝 [HDFS 升级模式（Upgrade Mode）完整分析](https://www.zeekling.cn/articles/2026/07/26/1785057539878.html) 
  
 * 📝 [Apache HDFS 小文件相关问题全景分析（2022 — 2026）](https://www.zeekling.cn/articles/2026/07/19/1784447376912.html) 
@@ -31,8 +33,6 @@
 * 📝 [PuaSE： 简单的全局编排 Agent](https://www.zeekling.cn/articles/2026/05/16/1778937519379.html) 
  
 * 📝 [HDFS DataNode 3.3.1 后优化详解](https://www.zeekling.cn/articles/2026/04/26/1777180488029.html) 
- 
-* 📝 [RMDelegationTokenSecretManager 深度解析](https://www.zeekling.cn/articles/2026/04/05/1775381100367.html) 
  
 
 
