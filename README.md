@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
+ 
 * 📝 [HDFS FsImage 详解](https://www.zeekling.cn/articles/2026/07/29/1785333877437.html) 
  
 * 📝 [HDFS 升级模式（Upgrade Mode）完整分析](https://www.zeekling.cn/articles/2026/07/26/1785057539878.html) 
@@ -31,8 +33,6 @@
 * 📝 [NVIDIA-OpenCode-免费模型使用指南](https://www.zeekling.cn/articles/2026/06/06/1780760812734.html) 
  
 * 📝 [PuaSE： 简单的全局编排 Agent](https://www.zeekling.cn/articles/2026/05/16/1778937519379.html) 
- 
-* 📝 [HDFS DataNode 3.3.1 后优化详解](https://www.zeekling.cn/articles/2026/04/26/1777180488029.html) 
  
 
 
