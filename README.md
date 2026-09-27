@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [OmniRoute 本地模型代理快速入门指南](https://www.zeekling.cn/articles/2026/09/27/1790495011424.html) 
+ 
 * 📝 [Gitea 仓库从非 CDN 模式改造为 CDN 模式实战指南](https://www.zeekling.cn/articles/2026/09/27/1790472627080.html) 
  
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
@@ -31,8 +33,6 @@
 * 📝 [HDFS & YARN 高质量论文分析报告（2021–2026）](https://www.zeekling.cn/articles/2026/07/19/1784443645235.html) 
  
 * 📝 [PuaSE v0.2.2 → v0.2.5 版本变化全览](https://www.zeekling.cn/articles/2026/06/13/1781366163530.html) 
- 
-* 📝 [NVIDIA-OpenCode-免费模型使用指南](https://www.zeekling.cn/articles/2026/06/06/1780760812734.html) 
  
 
 
