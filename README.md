@@ -14,6 +14,8 @@
 
 ### 最新文章
 
+* 📝 [Gitea 仓库从非 CDN 模式改造为 CDN 模式实战指南](https://www.zeekling.cn/articles/2026/09/27/1790472627080.html) 
+ 
 * 📝 [About Me](https://www.zeekling.cn/aboutMe.html) 
  
 * 📝 [HDFS FsImage 详解](https://www.zeekling.cn/articles/2026/07/29/1785333877437.html) 
@@ -31,8 +33,6 @@
 * 📝 [PuaSE v0.2.2 → v0.2.5 版本变化全览](https://www.zeekling.cn/articles/2026/06/13/1781366163530.html) 
  
 * 📝 [NVIDIA-OpenCode-免费模型使用指南](https://www.zeekling.cn/articles/2026/06/06/1780760812734.html) 
- 
-* 📝 [PuaSE： 简单的全局编排 Agent](https://www.zeekling.cn/articles/2026/05/16/1778937519379.html) 
  
 
 
